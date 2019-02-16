@@ -15,9 +15,9 @@
                                     </div>
                                 </div>
                                 <div class="col-sm-7">
-                                    <div class="b-text">Outstanding Web<br>Hosting for you.</div>
-                                    <div class="m-text">Starting at only <span class="bold">$2.38/mo*</span></div>
-                                    <a href="#" class="hbtn hbtn-primary hbtn-lg">Hosting Services</a>
+                                    <div class="b-text">Outstanding Web<br>Design for you.</div>
+                                    <div class="m-text">We Design High Quality,User Friendly,<br>Attractive Web Sites For You</div>
+                                    <a href="#" class="hbtn hbtn-primary hbtn-lg">Our Works</a>
                                 </div>
                             </div>
                         </div>
@@ -29,9 +29,23 @@
                                     </div>
                                 </div>
                                 <div class="col-sm-7">
-                                    <div class="b-text">Create your first<br>website today.</div>
-                                    <div class="m-text">Starting at only <span class="bold">$2.38/mo*</span></div>
-                                    <a href="#" class="hbtn hbtn-primary hbtn-lg">Create now</a>
+                                    <div class="b-text">We Create your<br>Web Applications.</div>
+                                    <div class="m-text">We Build Super Fast, Multipurpose, Creative<br>Web Aplications For Your Business</div>
+                                    <a href="#" class="hbtn hbtn-primary hbtn-lg">See It Now</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="slide">
+                            <div class="row rtl-row">
+                                <div class="col-sm-5">
+                                    <div class="img-holder">
+                                        <img src="images/slide-img5.png" alt="">
+                                    </div>
+                                </div>
+                                <div class="col-sm-7">
+                                    <div class="b-text">We Build Mobile<br>Applications.</div>
+                                    <div class="m-text">We Build High Quality, High Preference Hybrid Applications in Android And IOS</div>
+                                    <a href="#" class="hbtn hbtn-primary hbtn-lg">See It Now</a>
                                 </div>
                             </div>
                         </div>
@@ -43,14 +57,26 @@
                                     </div>
                                 </div>
                                 <div class="col-sm-7">
-                                    <div class="b-text">Build your site<br>with page builder</div>
-                                    <div class="m-text">Starting at only <span class="bold">$2.38/mo*</span></div>
+                                    <div class="b-text">Build Standalone<br>Programs</div>
+                                    <div class="m-text">We Are Build Standalone Systems As You Requires</span></div>
                                     <a href="#" class="hbtn hbtn-primary hbtn-lg">Learn more</a>
                                 </div>
                             </div>
                         </div>
                         <div class="slide">
-                            <div class="row">
+                            <div class="row rtl-row">
+                                    <div class="col-sm-5">
+                                        <div class="img-holder">
+                                            <img src="images/slide-img4.png" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-7">
+                                        <div class="b-text">Host Your Websites<br>in Powerfull Servers</div>
+                                        <div class="m-text">High Performance Web Hosting and Get More Secure and Stable Cpanel Hosting</div>
+                                        <a href="#" class="hbtn hbtn-primary hbtn-lg">Order Now</a>
+                                    </div>
+                                </div>
+                            <!-- <div class="row">
                                 <div class="col-xs-12">
                                     <div class="main-domain-search-holder">
                                         <div class="b-text">Simple, affordable<br>Web Hosting</div>
@@ -70,14 +96,143 @@
                                         <div class="m-text">Starting at only <span class="bold">$2.38/mo*</span></div>
                                     </div>
                                 </div>
+                            </div> -->
+                        </div>
+
+                        <div class="slide">
+                            <div class="row">
+                                <div class="col-xs-12">
+                                    <div class="main-domain-search-holder">
+                                        <div class="b-text">DOMAIN SEARCH</div>
+                                        <form>
+                                            <div class="row">
+                                                <div class="col-md-12">
+                                                    <div class="input-items">
+                                                        <input type="text" class="form-control domain-input" name="domain" placeholder="Find Your New Domain Name" autocapitalize="none" />
+                                                        <span class="input-items-btn">
+                                                            <input type="submit" class="btn search" value="Search" />
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </form>
+                                        <div class="m-text"><span class="bold">.com / .us / .net / .org / .info / .club / .dance</span></div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
+
+
                     </div>
                 </div>
             </div>
         </div>
     </div>
 </div>
+
+
+<section id="hositng-plans">
+<div class="row">
+                <div class="col-md-12">
+                    <div class="whyus"><!-- START WHY US SECTION -->
+                        <h5>why us?</h5>
+                        <h4>awesome features come with evry plan <span>monitored 24/7 by our technical support staff.</span></h4>
+                    </div>
+
+                    <div class="col-md-10 col-md-push-1">
+                        <div class="plans-fut">
+                            <div class="row phone-no-last">
+                                <div class="col-md-4"> <!-- WHY US -->
+                                    <div class="ftr-host wow fadeIn" data-wow-delay="0.1s">
+                                        <img src="icons/ic01.png" alt="" />
+                                        <h5>Immediate delivery</h5>
+                                        <p>Lorem Ipsum Dolor Sit Amet, Consectetuer Elit.</p>
+                                    </div>
+                                </div> <!-- END WHY US -->
+
+                                <div class="col-md-4"> <!-- WHY US -->
+                                    <div class="ftr-host wow fadeIn" data-wow-delay="0.3s">
+                                        <img src="icons/ic02.png" alt="" />
+                                        <h5>Immediate delivery</h5>
+                                        <p>Lorem Ipsum Dolor Sit Amet, Consectetuer Elit.</p>
+                                    </div>
+                                </div> <!-- END WHY US -->
+
+                                <div class="col-md-4"> <!-- WHY US -->
+                                    <div class="ftr-host no-right wow fadeIn" data-wow-delay="0.5s">
+                                        <img src="icons/ic03.png" alt="" />
+                                        <h5>Immediate delivery</h5>
+                                        <p>Lorem Ipsum Dolor Sit Amet, Consectetuer Elit.</p>
+                                    </div>
+                                </div>
+                            </div> <!-- END WHY US -->
+
+                            <div class="row phone-no-last">
+                                <div class="col-md-4"> <!-- WHY US -->
+                                    <div class="ftr-host no-bottm wow fadeIn" data-wow-delay="0.7s">
+                                        <img src="icons/ic04.png" alt="" />
+                                        <h5>Immediate delivery</h5>
+                                        <p>Lorem Ipsum Dolor Sit Amet, Consectetuer Elit.</p>
+                                    </div>
+                                </div> <!-- END WHY US -->
+
+                                <div class="col-md-4"> <!-- WHY US -->
+                                    <div class="ftr-host no-bottm wow fadeIn" data-wow-delay="0.9s">
+                                        <img src="icons/ic05.png" alt="" />
+                                        <h5>Immediate delivery</h5>
+                                        <p>Lorem Ipsum Dolor Sit Amet, Consectetuer Elit.</p>
+                                    </div>
+                                </div> <!-- END WHY US -->
+
+                                <div class="col-md-4"> <!-- WHY US -->
+                                    <div class="ftr-host no-bottm no-right wow fadeIn" data-wow-delay="1.1s">
+                                        <img src="icons/ic06.png" alt="" />
+                                        <h5>Immediate delivery</h5>
+                                        <p>Lorem Ipsum Dolor Sit Amet, Consectetuer Elit.</p>
+                                    </div>
+                                </div> <!-- END WHY US -->
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div> <!-- END WHY US -->
+
+</section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <div class="features container-fluid">
     <div class="container">
         <div class="row rtl-row">
