@@ -12,5 +12,40 @@
 */
 
 Route::get('/', function () {
-    return view('index');
+    $cssclass='';
+    $activeindex='active';
+    $activeContact='';
+    $activeAbout='';
+    return view('index',['cssclass'=>$cssclass,'activeindex'=>$activeindex,'activeContact'=>$activeContact,
+    'activeAbout'=>$activeAbout]);
+});
+
+Route::get('Contact', function()
+{
+    $cssclass='innerpage lighter';
+    $activeindex='';
+    $activeContact='active';
+    $activeAbout='';
+    return view('contact',['cssclass'=>$cssclass,'activeContact'=>$activeContact,'activeindex'=>$activeindex,
+    'activeAbout'=>$activeAbout]);
+});
+
+Route::get('About', function()
+{
+    $cssclass='innerpage';
+    $activeindex='';
+    $activeContact='';
+    $activeAbout='active';
+    return view('about',['cssclass'=>$cssclass,'activeContact'=>$activeContact,'activeindex'=>$activeindex,
+    'activeAbout'=>$activeAbout]);
+});
+
+Route::get('privacy', function()
+{
+    $cssclass='innerpage grey-bg';
+    $activeindex='';
+    $activeContact='';
+    $activeAbout='';
+    return view('privacy',['cssclass'=>$cssclass,'activeContact'=>$activeContact,'activeindex'=>$activeindex,
+    'activeAbout'=>$activeAbout]);
 });

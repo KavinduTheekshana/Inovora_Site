@@ -10,9 +10,11 @@
     <link rel="stylesheet" type="text/css" href="css/slick.css">
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <link rel="stylesheet" type="text/css" href="css/custom.css">
+    <link rel="stylesheet" type="text/css" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" type="text/css" href="css/swiper.min.css">
 </head>
 <body>
-<div id="header-holder">
+<div id="header-holder" class="{{$cssclass}}">
     <nav id="nav" class="navbar navbar-full">
         <div class="container-fluid">
             <div class="container container-nav">
@@ -28,9 +30,9 @@
                         </div>
                         <div style="height: 1px;" role="main" aria-expanded="false" class="navbar-collapse collapse navbar-collapse-centered" id="bs">
                             <ul class="nav navbar-nav navbar-nav-centered">
-                                <li class="nav-item active"><a class="nav-link" href="index.html">Home</a></li>
+                            <li class="nav-item {{$activeindex}}"><a class="nav-link" href="/">Home</a></li>
                                 <li class="nav-item dropdown">
-                                    <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown">Hosting Services</a>
+                                    <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown">Services</a>
                                     <div class="dropdown-menu custom-dropdown-menu">
                                         <div class="dropdown-items-holder">
                                             <div class="items-with-icon">
@@ -38,29 +40,29 @@
                                                     <div class="col-xs-12 col-sm-6">
                                                         <a href="webhosting.html" class="link-with-icon">
                                                             <span class="icon"><img src="images/server1.svg" alt=""></span>
-                                                            <span class="text">Web Hosting</span>
+                                                            <span class="text">Web Design</span>
                                                         </a>
                                                         <a href="cloudhosting.html" class="link-with-icon">
                                                             <span class="icon"><img src="images/server2.svg" alt=""></span>
-                                                            <span class="text">Cloud Hosting</span>
+                                                            <span class="text">Web Application</span>
                                                         </a>
                                                         <a href="vpshosting.html" class="link-with-icon">
                                                             <span class="icon"><img src="images/server3.svg" alt=""></span>
-                                                            <span class="text">VPS Hosting</span>
+                                                            <span class="text">Mobile Application</span>
                                                         </a>
                                                     </div>
                                                     <div class="col-xs-12 col-sm-6">
                                                         <a href="wordpresshosting.html" class="link-with-icon">
                                                             <span class="icon"><img src="images/server4.svg" alt=""></span>
-                                                            <span class="text">Wordpress Hosting</span>
+                                                            <span class="text">Standalone</span>
                                                         </a>
                                                         <a href="dedicatedhosting.html" class="link-with-icon">
                                                             <span class="icon"><img src="images/server5.svg" alt=""></span>
-                                                            <span class="text">Dedicated Hosting</span>
+                                                            <span class="text">Enterprise</span>
                                                         </a>
                                                         <a href="domains.html" class="link-with-icon">
                                                             <span class="icon"><img src="images/server6.svg" alt=""></span>
-                                                            <span class="text">Domain Names</span>
+                                                            <span class="text">Web Hosting</span>
                                                         </a>
                                                     </div>
                                                 </div>
@@ -81,13 +83,16 @@
                                 <li class="nav-item">
                                     <a class="nav-link" href="domains.html">Domains</a>
                                 </li>
-                                <li class="nav-item">
-                                    <a class="nav-link" href="contact.html">Support</a>
+                            <li class="nav-item {{$activeContact}}">
+                                    <a class="nav-link" href="Contact">Contact Us</a>
+                                </li>
+                                <li class="nav-item {{$activeAbout}}">
+                                    <a class="nav-link" href="About">About</a>
                                 </li>
                                 <li class="nav-item dropdown">
                                     <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Pages</a>
                                     <ul class="dropdown-menu">
-                                        <li><a class="dropdown-item" href="about.html">About</a></li>
+                                        <li><a class="dropdown-item" href="About">About</a></li>
                                         <li><a class="dropdown-item" href="blog.html">Blog</a></li>
                                         <li><a class="dropdown-item" href="privacy.html">Privacy</a></li>
                                     </ul>
@@ -185,12 +190,12 @@
                         <ul>
                             <li><a href="#">Sitemap</a></li>
                             <li><a href="#">Terms of Service</a></li>
-                            <li><a href="privacy.html">Privacy Policy</a></li>
+                            <li><a href="privacy">Privacy Policy</a></li>
                         </ul>        
                     </div>
                 </div>
                 <div class="col-md-6">
-                    <div class="copyright">© Copyright 2018 Hustbee Hosting LLC, All Rights Reserved</div>
+                    <div class="copyright">© Copyright 2019 Inovora, All Rights Reserved</div>
                 </div>
             </div>
         </div>
@@ -200,5 +205,6 @@
 <script src="js/bootstrap.min.js"></script>
 <script src="js/slick.min.js"></script>
 <script src="js/main.js"></script>
+<script src="js/scripts.js"></script>
 </body>
 </html>

@@ -132,11 +132,12 @@
 
 
 <section id="hositng-plans">
-<div class="row">
+    <div class="container">
+            <div class="row">
                 <div class="col-md-12">
                     <div class="whyus"><!-- START WHY US SECTION -->
                         <h5>why us?</h5>
-                        <h4>awesome features come with evry plan <span>monitored 24/7 by our technical support staff.</span></h4>
+                        <h4>WE DESIGN, DEVELOP AND DELIVER THE BEST!</h4>
                     </div>
 
                     <div class="col-md-10 col-md-push-1">
@@ -145,24 +146,27 @@
                                 <div class="col-md-4"> <!-- WHY US -->
                                     <div class="ftr-host wow fadeIn" data-wow-delay="0.1s">
                                         <img src="icons/ic01.png" alt="" />
-                                        <h5>Immediate delivery</h5>
-                                        <p>Lorem Ipsum Dolor Sit Amet, Consectetuer Elit.</p>
+                                        <h5>Web Design / Develop</h5>
+                                        <p>Website carry your business identity over internet. Creative, 
+                                        Proffessional and Mobile Friendly and Fast Loading website attracts more customer. </p>
                                     </div>
                                 </div> <!-- END WHY US -->
 
                                 <div class="col-md-4"> <!-- WHY US -->
                                     <div class="ftr-host wow fadeIn" data-wow-delay="0.3s">
                                         <img src="icons/ic02.png" alt="" />
-                                        <h5>Immediate delivery</h5>
-                                        <p>Lorem Ipsum Dolor Sit Amet, Consectetuer Elit.</p>
+                                        <h5>Web Application</h5>
+                                        <p>Access your business / organization data in a top secured way while you abroad 
+                                        or even at the moon if there internet available. </p>
                                     </div>
                                 </div> <!-- END WHY US -->
 
                                 <div class="col-md-4"> <!-- WHY US -->
                                     <div class="ftr-host no-right wow fadeIn" data-wow-delay="0.5s">
                                         <img src="icons/ic03.png" alt="" />
-                                        <h5>Immediate delivery</h5>
-                                        <p>Lorem Ipsum Dolor Sit Amet, Consectetuer Elit.</p>
+                                        <h5>E-Commerce</h5>
+                                        <p>Accept payments online and maintain your business store online with easy management and high 
+                                        secure way.High Security And Creative User Interface</p>
                                     </div>
                                 </div>
                             </div> <!-- END WHY US -->
@@ -171,24 +175,29 @@
                                 <div class="col-md-4"> <!-- WHY US -->
                                     <div class="ftr-host no-bottm wow fadeIn" data-wow-delay="0.7s">
                                         <img src="icons/ic04.png" alt="" />
-                                        <h5>Immediate delivery</h5>
-                                        <p>Lorem Ipsum Dolor Sit Amet, Consectetuer Elit.</p>
+                                        <h5>Mobile Application</h5>
+                                        <p>iPhone, Android and Windows Mobile Apps with Access All Sensors and Creative Ideas With Responsive UI 
+                                        and Great Communication with Your Web Site</p>
                                     </div>
                                 </div> <!-- END WHY US -->
 
                                 <div class="col-md-4"> <!-- WHY US -->
                                     <div class="ftr-host no-bottm wow fadeIn" data-wow-delay="0.9s">
                                         <img src="icons/ic05.png" alt="" />
-                                        <h5>Immediate delivery</h5>
-                                        <p>Lorem Ipsum Dolor Sit Amet, Consectetuer Elit.</p>
+                                        <h5>SEO</h5>
+                                        <p>Stand on top of search results and increase sale. We do on-site and off-site SEO optimization to
+                                         be on first page in search engines like Google. </p>
                                     </div>
                                 </div> <!-- END WHY US -->
 
                                 <div class="col-md-4"> <!-- WHY US -->
                                     <div class="ftr-host no-bottm no-right wow fadeIn" data-wow-delay="1.1s">
                                         <img src="icons/ic06.png" alt="" />
-                                        <h5>Immediate delivery</h5>
-                                        <p>Lorem Ipsum Dolor Sit Amet, Consectetuer Elit.</p>
+                                        <h5>Web Hosting</h5>
+                                        <p>
+									High performance web hosting built on our cloud infrastructure for optimal performance and reliability 
+                                    but at low cost.
+								</p>
                                     </div>
                                 </div> <!-- END WHY US -->
                             </div>
@@ -197,34 +206,8 @@
 
                 </div>
             </div> <!-- END WHY US -->
-
+    </div>
 </section>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -279,6 +262,121 @@
         </div>
     </div>
 </div>
+
+
+
+
+
+
+
+<div class="domain-features container-fluid">
+        <div class="">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="row-title">Our Design Process</div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-1 col-md-1">
+                </div>
+                <div class="col-sm-2 col-md-2">
+                    <div class="dfeature-box">
+                        <div class="icon"><i class="fab fa-connectdevelop"></i></div>
+                        <div class="title">Planning</div>
+                        <div class="details">Understanding what you want out of your site and how do you plant to implement it.</div>
+                    </div>
+                </div>
+                <div class="col-sm-2 col-md-2">
+                    <div class="dfeature-box">
+                        <div class="icon"><i class="fas fa-pencil-alt"></i></i></div>
+                        <div class="title">Design</div>
+                        <div class="details">We will Create a beautiful, affordable website design for your creative marketing project</div>
+                    </div>
+                </div>
+                <div class="col-sm-2 col-md-2">
+                    <div class="dfeature-box">
+                        <div class="icon"><i class="fas fa-file-code"></i></div>
+                        <div class="title">DEVELOPMENT</div>
+                        <div class="details">We develop content management systems for clients who need more than just the basics</div>
+                    </div>
+                </div>
+                <div class="col-sm-2 col-md-2">
+                        <div class="dfeature-box">
+                            <div class="icon"><i class="fas fa-desktop"></i></i></div>
+                            <div class="title">LAUNCH</div>
+                            <div class="details">After successful testing the product is delivered / deployed to the customer for their use</div>
+                        </div>
+                </div>
+                <div class="col-sm-2 col-md-2">
+                        <div class="dfeature-box">
+                            <div class="icon"><i class="fas fa-cogs"></i></div>
+                            <div class="title">MAINTENANCE</div>
+                            <div class="details">It is an important step which makes sure that your site works with efficiency all the time</div>
+                        </div>
+                </div>
+                <div class="col-sm-1 col-md-1">
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{{-- <section id="hositng-plans">
+<div class="container">
+<div class="row techologhie-on-host">  <!-- TEC ON SERVER START -->
+    <div class="col-md-2">
+        <a class="wow fadeIn" data-wow-delay="0.1s" href="#"><img src="tech/themeforest-light-background.png" alt="logos" /></a><!-- LOGO -->
+    </div>
+
+    <div class="col-md-2">
+        <a class="wow fadeIn" data-wow-delay="0.3s" href="#"><img src="tech/3docean-light-background.png" alt="logos" /></a><!-- LOGO -->
+    </div>
+
+    <div class="col-md-2">
+        <a class="wow fadeIn" data-wow-delay="0.5s" href="#"><img src="tech/activeden-light-background.png" alt="logos" /></a><!-- LOGO -->
+    </div>
+
+    <div class="col-md-2">
+        <a class="wow fadeIn" data-wow-delay="0.7s" href="#"><img src="tech/audiojungle-light-background.png" alt="logos" /></a><!-- LOGO -->
+    </div>
+
+    <div class="col-md-2">
+        <a class="wow fadeIn" data-wow-delay="0.9s" href="#"><img src="tech/codecanyon-light-background.png" alt="logos" /></a><!-- LOGO -->
+    </div>
+
+    <div class="col-md-2">
+        <a class="wow fadeIn" data-wow-delay="1.1s" href="#"><img src="tech/graphicriver-light-background.png" alt="logos" /></a><!-- LOGO -->
+    </div>
+</div> <!-- TEC ON SERVER END -->
+</div>
+</section> --}}
+
+
+
+
+
+
+
+
+
+
+
 <div class="pricing container-fluid">
     <div class="container">
         <div class="row">
