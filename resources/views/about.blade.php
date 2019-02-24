@@ -47,162 +47,80 @@
 
 
 
-
-    <!-- Team members -->
-    <section class="team-members-slider pt-120 pb-120">
-            <div class="container">
-                <!-- Section title -->
-                <div class="section-title">
-                    <h2 data-animate="fadeInUp" data-delay=".1">Our Team Members</h2>
-                    <span data-animate="fadeInUp" data-delay=".2">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour</span>
-                </div>
-                <!-- End of Section title -->
-    
-                <!-- Team member slider -->
-                <div class="swiper-container team-member-slider">
-                    <div class="swiper-wrapper">
-                        <!-- Single Member -->
-                        <div class="swiper-slide single-member">
-                            <img src="member.jpg" alt="">
-                            <div class="member-info">
-                                <h3>Robert A. Frazier</h3>
-                                <span>Chief Operating Officer (CEO)</span>
-                            </div>
-                            <div class="member-hover-wrap bounceIn d-flex align-items-center">
-                                <div class="member-hover">
-                                    <h3>Robert A. Frazier</h3>
-                                    <span>Chief Operating Officer (CEO)</span>
-                                    <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos</p>
-                                    <ul class="list-inline">
-                                        <li><a href="#" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                                        <li><a href="#" target="_blank"><i class="fa fa-twitter"></i></a></li>
-                                        <li><a href="#" target="_blank"><i class="fa fa-google-plus"></i></a></li>
-                                        <li><a href="#" target="_blank"><i class="fa fa-linkedin"></i></a></li>
-                                        <li><a href="#" target="_blank"><i class="fa fa-feed"></i></a></li>
-                                        <li><a href="#" target="_blank"><i class="fa fa-instagram"></i></a></li>
+<div class="btc_team_main_wrapper" data-parallax="scroll" data-image-src="content/service_bg.jpg">
+    <div class="container">
+        <div class="btc_team_left_wrapper">
+            <h5>Team Member</h5>
+            <h3>Our Experts</h3>
+            <span>#</span>
+            <p>Proin gravida nibh vel velit auctor et. Aenean sollicitudin, lorem quis bdum auctor, nisi elit consequat ipsum, nec sagittis sem.</p>
+        </div>
+        <div class="btc_team_right_wrapper">
+            <div class="btc_team_slider_wrapper">
+                <div class="owl-carousel owl-theme">
+                    <div class="item">
+                        <div class="btc_team_slider_cont_main_wrapper">
+                            <div class="btc_team_img_wrapper">
+                                <img src="content/team1.jpg" alt="team_img1">
+                                <div class="btc_team_social_wrapper">
+                                    <ul>
+                                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
                                     </ul>
                                 </div>
                             </div>
-                        </div>
-                        <!-- End of Single member -->
-    
-                        <!-- Single Member -->
-                        <div class="swiper-slide single-member">
-                            <img src="member.jpg" alt="">
-                            <div class="member-info">
-                                <h3>Jane Doe</h3>
-                                <span>Head of Creative</span>
+                            <div class="btc_team_img_cont_wrapper">
+                                <h4><a href="#">Ajay Suryavanshi</a></h4>
+                                <p>(Consultant)</p>
                             </div>
-                            <div class="member-hover-wrap bounceIn d-flex align-items-center">
-                                <div class="member-hover">
-                                    <h3>Jane Doe</h3>
-                                    <span>Head of Creative</span>
-                                    <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos</p>
-                                    <ul class="list-inline">
-                                        <li><a href="#" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                                        <li><a href="#" target="_blank"><i class="fa fa-twitter"></i></a></li>
-                                        <li><a href="#" target="_blank"><i class="fa fa-google-plus"></i></a></li>
-                                        <li><a href="#" target="_blank"><i class="fa fa-linkedin"></i></a></li>
-                                        <li><a href="#" target="_blank"><i class="fa fa-feed"></i></a></li>
-                                        <li><a href="#" target="_blank"><i class="fa fa-instagram"></i></a></li>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="btc_team_slider_cont_main_wrapper">
+                            <div class="btc_team_img_wrapper">
+                                <img src="content/team2.jpg" alt="team_img1">
+                                <div class="btc_team_social_wrapper">
+                                    <ul>
+                                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
                                     </ul>
                                 </div>
                             </div>
-                        </div>
-                        <!-- End of Single member -->
-    
-                        <!-- Single Member -->
-                        <div class="swiper-slide single-member">
-                            <img src="member.jpg" alt="">
-                            <div class="member-info">
-                                <h3>Ricky T. Rodriguez</h3>
-                                <span>Cheif Technical Officer (CTO)</span>
+                            <div class="btc_team_img_cont_wrapper">
+                                <h4><a href="#">Jenifer Doe</a></h4>
+                                <p>(Consultant)</p>
                             </div>
-                            <div class="member-hover-wrap bounceIn d-flex align-items-center">
-                                <div class="member-hover">
-                                    <h3>Ricky T. Rodriguez</h3>
-                                    <span>Cheif Technical Officer (CTO)</span>
-                                    <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos</p>
-                                    <ul class="list-inline">
-                                        <li><a href="#" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                                        <li><a href="#" target="_blank"><i class="fa fa-twitter"></i></a></li>
-                                        <li><a href="#" target="_blank"><i class="fa fa-google-plus"></i></a></li>
-                                        <li><a href="#" target="_blank"><i class="fa fa-linkedin"></i></a></li>
-                                        <li><a href="#" target="_blank"><i class="fa fa-feed"></i></a></li>
-                                        <li><a href="#" target="_blank"><i class="fa fa-instagram"></i></a></li>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="btc_team_slider_cont_main_wrapper">
+                            <div class="btc_team_img_wrapper">
+                                <img src="content/team3.jpg" alt="team_img1">
+                                <div class="btc_team_social_wrapper">
+                                    <ul>
+                                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
                                     </ul>
                                 </div>
                             </div>
-                        </div>
-                        <!-- End of Single member -->
-    
-                        <!-- Single Member -->
-                        <div class="swiper-slide single-member">
-                            <img src="img/member.jpg" alt="">
-                            <div class="member-info">
-                                <h3>Natalia Petrovna</h3>
-                                <span>Senior Marketing Executive</span>
-                            </div>
-                            <div class="member-hover-wrap bounceIn d-flex align-items-center">
-                                <div class="member-hover">
-                                    <h3>Natalia Petrovna</h3>
-                                    <span>Senior Marketing Executive</span>
-                                    <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos</p>
-                                    <ul class="list-inline">
-                                        <li><a href="#" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                                        <li><a href="#" target="_blank"><i class="fa fa-twitter"></i></a></li>
-                                        <li><a href="#" target="_blank"><i class="fa fa-google-plus"></i></a></li>
-                                        <li><a href="#" target="_blank"><i class="fa fa-linkedin"></i></a></li>
-                                        <li><a href="#" target="_blank"><i class="fa fa-feed"></i></a></li>
-                                        <li><a href="#" target="_blank"><i class="fa fa-instagram"></i></a></li>
-                                    </ul>
-                                </div>
+                            <div class="btc_team_img_cont_wrapper">
+                                <h4><a href="#">Akshay Handge</a></h4>
+                                <p>(Consultant)</p>
                             </div>
                         </div>
-                        <!-- End of Single member -->
-    
-                        <!-- Single Member -->
-                        <div class="swiper-slide single-member">
-                            <img src="img/member.jpg" alt="">
-                            <div class="member-info">
-                                <h3>Robert A. Frazier</h3>
-                                <span>Chief Operating Officer (CEO)</span>
-                            </div>
-                            <div class="member-hover-wrap bounceIn d-flex align-items-center">
-                                <div class="member-hover">
-                                    <h3>Robert A. Frazier</h3>
-                                    <span>Chief Operating Officer (CEO)</span>
-                                    <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos</p>
-                                    <ul class="list-inline">
-                                        <li><a href="#" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                                        <li><a href="#" target="_blank"><i class="fa fa-twitter"></i></a></li>
-                                        <li><a href="#" target="_blank"><i class="fa fa-google-plus"></i></a></li>
-                                        <li><a href="#" target="_blank"><i class="fa fa-linkedin"></i></a></li>
-                                        <li><a href="#" target="_blank"><i class="fa fa-feed"></i></a></li>
-                                        <li><a href="#" target="_blank"><i class="fa fa-instagram"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- End of Single member -->
                     </div>
                 </div>
-                <!-- End of Team member slider -->
-    
-                <!-- Team member navigation -->
-                <ul class="team-nav text-center">
-                    <li class="team-member-prev">
-                        <a href="#"><i class="fa fa-angle-left"></i>Prev</a>
-                    </li>
-                    <li>|</li>
-                    <li class="team-member-next">
-                        <a href="#">Next<i class="fa fa-angle-right"></i></a>
-                    </li>
-                </ul>
             </div>
-        </section>
-        <!-- End of Team members -->
-
+        </div>
+    </div>
+</div>
+    
 
 
 

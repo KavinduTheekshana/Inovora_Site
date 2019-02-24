@@ -10,8 +10,9 @@
     <link rel="stylesheet" type="text/css" href="css/slick.css">
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <link rel="stylesheet" type="text/css" href="css/custom.css">
-    <link rel="stylesheet" type="text/css" href="css/owl.carousel.min.css">
-    <link rel="stylesheet" type="text/css" href="css/swiper.min.css">
+    <link rel="stylesheet" type="text/css" href="css/animate.min.css">
+    <link href="css/animtrap.css" rel="stylesheet">
+
 </head>
 <body>
 <div id="header-holder" class="{{$cssclass}}">
@@ -206,5 +207,20 @@
 <script src="js/slick.min.js"></script>
 <script src="js/main.js"></script>
 <script src="js/scripts.js"></script>
+<script src="js/custom.js"></script>
+<script src="js/magnific.min.js"></script>
+<script src="js/jquery.counter.min.js"></script>
+<script src="js/anim-trap.js"></script>
+<script src="js/anim-scroll.js"></script>
+
+<script>
+    ANIMSCROLL.init({
+        easing: 'ease-in-out-sine'
+    });
+
+    $(document).ready(function(){
+        $('.rain').makeitsRain()
+    });
+</script>
 </body>
 </html>
