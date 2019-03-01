@@ -1575,7 +1575,7 @@ nav.navbar .nav .open > a:hover, nav.navbar .nav .open > a:focus {
     position: relative;
     padding-top: 100px;
     padding-bottom: 100px;
-    background-color: #5993fa;
+    background-color: #000000;
     overflow: hidden;
     z-index: 1;
 }
@@ -1627,12 +1627,12 @@ nav.navbar .nav .open > a:hover, nav.navbar .nav .open > a:focus {
 .domain-search-holder button {
     font-size: 19px;
     font-weight: 600;
-    color: #ffffff;
+    color: #000000;
     border: 0;
     width: 100%;
     padding: 12px 22px;
     border-radius: 100px;
-    background-color: #3d5e98;
+    background-color: #ffffff;
     outline: 0;
     cursor: pointer;
     -webkit-transition: all 0.3s ease;
@@ -1640,7 +1640,7 @@ nav.navbar .nav .open > a:hover, nav.navbar .nav .open > a:focus {
 }
 
 .domain-search-holder button:hover, .domain-search-holder button:focus {
-    background-color: #365386;
+    background-color: #a5a5a5;
 }
 
 .domain-search-holder .domain-input-holder {
@@ -2400,8 +2400,8 @@ nav.navbar .nav .open > a:hover, nav.navbar .nav .open > a:focus {
 
 .dfeature-box .icon i {
     font-size: 50px;
-    background: -webkit-linear-gradient(to bottom, #45b35e, #6ad56a);
-    background: linear-gradient(to bottom, #45b35e, #6ad56a);
+    background: -webkit-linear-gradient(to bottom, #6441A5, #2a0845);
+    background: linear-gradient(to bottom, #48c6ef, #6f86d6);
     color: transparent;
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;

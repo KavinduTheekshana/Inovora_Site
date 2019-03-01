@@ -12,40 +12,75 @@
 */
 
 Route::get('/', function () {
+    $title='INOVORA';
     $cssclass='';
     $activeindex='active';
     $activeContact='';
     $activeAbout='';
-    return view('index',['cssclass'=>$cssclass,'activeindex'=>$activeindex,'activeContact'=>$activeContact,
-    'activeAbout'=>$activeAbout]);
+    $activeBlog='';
+    return view('site.index',['title'=>$title,'cssclass'=>$cssclass,'activeindex'=>$activeindex,'activeContact'=>$activeContact,
+    'activeAbout'=>$activeAbout,'activeBlog'=>$activeBlog]);
 });
 
 Route::get('Contact', function()
 {
+    $title='Contact';
     $cssclass='innerpage lighter';
     $activeindex='';
     $activeContact='active';
     $activeAbout='';
-    return view('contact',['cssclass'=>$cssclass,'activeContact'=>$activeContact,'activeindex'=>$activeindex,
-    'activeAbout'=>$activeAbout]);
+    $activeBlog='';
+    return view('site.contact',['title'=>$title,'cssclass'=>$cssclass,'activeContact'=>$activeContact,'activeindex'=>$activeindex,
+    'activeAbout'=>$activeAbout,'activeBlog'=>$activeBlog]);
 });
 
 Route::get('About', function()
 {
+    $title='About';
     $cssclass='innerpage';
     $activeindex='';
     $activeContact='';
+    $activeBlog='';
     $activeAbout='active';
-    return view('about',['cssclass'=>$cssclass,'activeContact'=>$activeContact,'activeindex'=>$activeindex,
-    'activeAbout'=>$activeAbout]);
+    return view('site.about',['title'=>$title,'cssclass'=>$cssclass,'activeContact'=>$activeContact,'activeindex'=>$activeindex,
+    'activeAbout'=>$activeAbout,'activeBlog'=>$activeBlog]);
+});
+
+Route::get('Blog', function()
+{
+    $title='Blog';
+    $cssclass='innerpage';
+    $activeindex='';
+    $activeContact='';
+    $activeAbout='';
+    $activeBlog='active';
+    return view('site.blog',['title'=>$title,'cssclass'=>$cssclass,'activeContact'=>$activeContact,'activeindex'=>$activeindex,
+    'activeAbout'=>$activeAbout,'activeBlog'=>$activeBlog]);
 });
 
 Route::get('privacy', function()
 {
+    $title='Privancy';
     $cssclass='innerpage grey-bg';
     $activeindex='';
     $activeContact='';
     $activeAbout='';
-    return view('privacy',['cssclass'=>$cssclass,'activeContact'=>$activeContact,'activeindex'=>$activeindex,
-    'activeAbout'=>$activeAbout]);
+    return view('site.privacy',['title'=>$title,'cssclass'=>$cssclass,'activeContact'=>$activeContact,'activeindex'=>$activeindex,
+    'activeAbout'=>$activeAbout,'activeBlog'=>$activeBlog]);
+});
+
+Route::get('Login', function()
+{
+    $title='Login';
+    $loginactive='active';
+    $registeractive='';
+    return view('site.login',['title'=>$title,'loginactive'=>$loginactive,'registeractive'=>$registeractive]);
+});
+
+Route::get('Register', function()
+{
+    $title='Register';
+    $registeractive='active';
+    $loginactive='';
+    return view('site.register',['title'=>$title,'registeractive'=>$registeractive,'loginactive'=>$loginactive]);
 });
