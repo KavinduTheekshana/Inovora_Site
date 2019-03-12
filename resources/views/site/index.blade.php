@@ -155,7 +155,7 @@
                                 <div class="col-md-4" data-animscroll="fade-up"> <!-- WHY US -->
                                     <div class="ftr-host wow fadeIn" data-wow-delay="0.3s">
                                         <img src="icons/ic02.png" alt="" />
-                                        <h5>Web Application</h5>
+                                        <h5>Standalone</h5>
                                         <p>Access your business / organization data in a top secured way while you abroad 
                                         or even at the moon if there internet available. </p>
                                     </div>
@@ -329,6 +329,55 @@
 
 
 
+    <div class="project-count-area image-bg section-pt-90 section-pb" style="background-image: url(images/counter-bg.jpg)"
+    data-black-overlay="7" data-animscroll="fade-up">
+       <div class="container">
+           <div class="row">
+               <div class="col-lg-12">
+                   <div class="project-count-inner domain-inner-bg">
+                       <div class="row">
+                           <div class="col-lg-3 col-sm-6" data-animscroll="fade-in" data-animscroll-delay="400">
+                               <!-- counter start -->
+                               <div class="counter text-center mt-30">
+                                   <img src="images/icon/fun-01.png" alt="">
+                                   <h3 class="counter-active count">120</h3>
+                                   <p>Happy Clients</p>
+                               </div>
+                               <!-- counter end -->
+                           </div>
+                           <div class="col-lg-3 col-sm-6" data-animscroll="fade-in" data-animscroll-delay="800">
+                               <!-- counter start -->
+                               <div class="counter text-center mt-30">
+                                   <img src="images/icon/fun-02.png" alt="">
+                                   <h3 class="counter-active count">90</h3>
+                                   <p>Award Winning</p>
+                               </div>
+                               <!-- counter end -->
+                           </div>
+                           <div class="col-lg-3 col-sm-6" data-animscroll="fade-in" data-animscroll-delay="200">
+                               <!-- counter start -->
+                               <div class="counter text-center mt-30">
+                                   <img src="images/icon/fun-03.png" alt="">
+                                   <h3 class="counter-active count">130</h3>
+                                   <p>Project</p>
+                               </div>
+                               <!-- counter end -->
+                           </div>
+                           <div class="col-lg-3 col-sm-6">
+                               <!-- counter start -->
+                               <div class="counter text-center mt-30" data-animscroll="fade-in" data-animscroll-delay="600">
+                                   <img src="images/icon/fun-04.png" alt="">
+                                   <h3 class="counter-active count">350</h3>
+                                   <p>Cups of Coffee</p>
+                               </div>
+                               <!-- counter end -->
+                           </div>
+                       </div>
+                   </div>
+               </div>
+           </div>
+       </div>
+   </div>
 
 
 
@@ -337,35 +386,9 @@
 
 
 
-{{-- <section id="hositng-plans">
-<div class="container">
-<div class="row techologhie-on-host">  <!-- TEC ON SERVER START -->
-    <div class="col-md-2">
-        <a class="wow fadeIn" data-wow-delay="0.1s" href="#"><img src="tech/themeforest-light-background.png" alt="logos" /></a><!-- LOGO -->
-    </div>
 
-    <div class="col-md-2">
-        <a class="wow fadeIn" data-wow-delay="0.3s" href="#"><img src="tech/3docean-light-background.png" alt="logos" /></a><!-- LOGO -->
-    </div>
 
-    <div class="col-md-2">
-        <a class="wow fadeIn" data-wow-delay="0.5s" href="#"><img src="tech/activeden-light-background.png" alt="logos" /></a><!-- LOGO -->
-    </div>
 
-    <div class="col-md-2">
-        <a class="wow fadeIn" data-wow-delay="0.7s" href="#"><img src="tech/audiojungle-light-background.png" alt="logos" /></a><!-- LOGO -->
-    </div>
-
-    <div class="col-md-2">
-        <a class="wow fadeIn" data-wow-delay="0.9s" href="#"><img src="tech/codecanyon-light-background.png" alt="logos" /></a><!-- LOGO -->
-    </div>
-
-    <div class="col-md-2">
-        <a class="wow fadeIn" data-wow-delay="1.1s" href="#"><img src="tech/graphicriver-light-background.png" alt="logos" /></a><!-- LOGO -->
-    </div>
-</div> <!-- TEC ON SERVER END -->
-</div>
-</section> --}}
 
 
 
@@ -613,54 +636,35 @@
 
 
 
-    <div class="project-count-area image-bg section-pt-90 section-pb" style="background-image: url(images/counter-bg.jpg)"
+
+
+
+
+    <div class="image-bg section-pt-90 section-pb-90" style="background-image: url(images/hiring.jpg)"
     data-black-overlay="7" data-animscroll="fade-up">
-       <div class="container">
+       
            <div class="row">
                <div class="col-lg-12">
                    <div class="project-count-inner domain-inner-bg">
                        <div class="row">
-                           <div class="col-lg-3 col-sm-6" data-animscroll="fade-in" data-animscroll-delay="400">
+                           
+                           
+                           
+                           <div class="col-lg-12 col-sm-12">
                                <!-- counter start -->
-                               <div class="counter text-center mt-30">
-                                   <img src="images/icon/fun-01.png" alt="">
-                                   <h3 class="counter-active count">120</h3>
-                                   <p>Happy Clients</p>
+                               <div class=" text-center mt-30" data-animscroll="fade-up" data-animscroll-delay="100">
+                                    <div class="row" data-animscroll="fade-up" data-animscroll-delay="200">
+                                   <h3 style=""><span style="color: #ffc600;font-weight: bold;font-size: 1.9em;">Come, be a Part of Our </span> <span style="color: cornsilk;font-weight: bold;font-size: 1.9em;"> Growing Family </span></h3>
+                                   <div data-animscroll="fade-up" data-animscroll-delay="300" class="feature-link"><a href="#" class="hbtn hbtn-default2">Get Started!</a></div>
+                                    </div>
                                </div>
                                <!-- counter end -->
                            </div>
-                           <div class="col-lg-3 col-sm-6" data-animscroll="fade-in" data-animscroll-delay="800">
-                               <!-- counter start -->
-                               <div class="counter text-center mt-30">
-                                   <img src="images/icon/fun-02.png" alt="">
-                                   <h3 class="counter-active count">90</h3>
-                                   <p>Award Winning</p>
-                               </div>
-                               <!-- counter end -->
-                           </div>
-                           <div class="col-lg-3 col-sm-6" data-animscroll="fade-in" data-animscroll-delay="200">
-                               <!-- counter start -->
-                               <div class="counter text-center mt-30">
-                                   <img src="images/icon/fun-03.png" alt="">
-                                   <h3 class="counter-active count">130</h3>
-                                   <p>Project</p>
-                               </div>
-                               <!-- counter end -->
-                           </div>
-                           <div class="col-lg-3 col-sm-6">
-                               <!-- counter start -->
-                               <div class="counter text-center mt-30" data-animscroll="fade-in" data-animscroll-delay="600">
-                                   <img src="images/icon/fun-04.png" alt="">
-                                   <h3 class="counter-active count">350</h3>
-                                   <p>Cups of Coffee</p>
-                               </div>
-                               <!-- counter end -->
-                           </div>
+
                        </div>
                    </div>
                </div>
-           </div>
-       </div>
+           </div>   
    </div>
 
 
@@ -717,22 +721,22 @@
 
 
 
-<div class="latest-news container-fluid">
+<div class="latest-news container-fluid" data-animscroll="fade-up">
     <div class="container">
         <div class="row">
-            <div class="col-sm-8">
+            <div class="col-sm-8" data-animscroll="fade-right">
                 <div class="row-title">
                     Latest news from our blog
                 </div>
             </div>
-            <div class="col-sm-4">
+            <div class="col-sm-4" data-animscroll="fade-left">
                 <div class="main-btn-holder">
                     <a href="blog.html" class="hbtn hbtn-default">View more</a>
                 </div>
             </div>
         </div>
         <div class="row">
-            <div class="col-sm-6 col-md-4">
+            <div class="col-sm-6 col-md-4" data-animscroll="fade-in" data-animscroll-delay="200">
                 <div class="post-box blue-bg">
                     <div class="post-img"></div>
                     <span class="badge badge-danger">Hot</span>
@@ -740,7 +744,7 @@
                     <div class="post-link"><a href="#">Learn more</a></div>
                 </div>
             </div>
-            <div class="col-sm-6 col-md-4">
+            <div class="col-sm-6 col-md-4" data-animscroll="fade-in" data-animscroll-delay="400">
                 <div class="post-box grey-bg">
                     <div class="post-img"></div>
                     <span class="badge badge-info">Hot</span>
@@ -748,7 +752,7 @@
                     <div class="post-link"><a href="#">Learn more</a></div>
                 </div>
             </div>
-            <div class="col-sm-12 col-md-4">
+            <div class="col-sm-12 col-md-4" data-animscroll="fade-in" data-animscroll-delay="600">
                 <div class="post-box yellow-bg">
                     <div class="post-img"></div>
                     <span class="badge badge-dark">Hot</span>
@@ -761,15 +765,15 @@
 </div>
 
 
-<div class="domain-search-holder container-fluid">
+<div class="domain-search-holder container-fluid" data-animscroll="fade-up">
     <div class="container">
         <form>
             <div class="row">
-                <div class="col-sm-12 col-md-3 col-lgmd-4"><div class="title">News Letter</div></div>
-                <div class="col-sm-8 col-md-6 col-lgmd-6">
+                <div data-animscroll="fade-right" class="col-sm-12 col-md-3 col-lgmd-4"><div class="title">News Letter</div></div>
+                <div data-animscroll="fade-up" class="col-sm-8 col-md-6 col-lgmd-6">
                     <input class="domain-input" type="text" placeholder="Your Emali"> 
                 </div>
-                <div class="col-sm-4 col-md-3 col-lgmd-2">
+                <div data-animscroll="fade-left" class="col-sm-4 col-md-3 col-lgmd-2">
                     <button type="submit">Subscribe</button>
                 </div>
             </div>
@@ -780,15 +784,15 @@
 
 <div class="support-links container-fluid">
     <div class="row">
-        <div class="col-sm-6 hylink-holder">
-            <div class="hylink-box">
+        <div class="col-sm-6 hylink-holder" data-animscroll="fade-right">
+            <div class="hylink-box" data-animscroll="fade-up" data-animscroll-delay="200"> 
                 <div class="icon"><img src="images/info.svg" alt=""></div>
                 <a href="#" class="link">Let’s talk</a>
                 <div class="text">Sed ut perspiciatis unde omnis iste natus error sit voluptatem ccusantium.</div>
             </div>
         </div>
-        <div class="col-sm-6 hylink-holder">
-            <div class="hylink-box">
+        <div class="col-sm-6 hylink-holder" data-animscroll="fade-left" >
+            <div class="hylink-box" data-animscroll="fade-up" data-animscroll-delay="200">
                 <div class="icon"><img src="images/chat.svg" alt=""></div>
                 <a href="#" class="link">Go to support center</a>
                 <div class="text">Sed ut perspiciatis unde omnis iste natus error sit voluptatem ccusantium.</div>

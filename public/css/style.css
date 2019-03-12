@@ -197,6 +197,17 @@
     background-color: #ffc600;
 }
 
+.hbtn.hbtn-default2 {
+    background-color: #ffffff;
+    color: #000000;
+}
+
+.hbtn.hbtn-default2:hover, .hbtn.hbtn-default2:focus {
+    color: #3b4048;
+    text-decoration: none;
+    background-color: #ffc600;
+}
+
 .hbtn.hbtn-blue {
     background-color: #5993fa;
     color: #fff;

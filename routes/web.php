@@ -84,3 +84,7 @@ Route::get('Register', function()
     $loginactive='';
     return view('site.register',['title'=>$title,'registeractive'=>$registeractive,'loginactive'=>$loginactive]);
 });
+
+Route::get('admin','AdminController@login');
+
+Route::post('/addUser', 'UserController@addUser');

@@ -5,13 +5,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" href="favicon.ico">
     <title>{{$title}} | Web Development,Web Design & Enterprise Application Company in Sri Lanka</title>
-    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
-    <link rel="stylesheet" type="text/css" href="css/fontawesome-all.min.css">
-    <link rel="stylesheet" type="text/css" href="css/slick.css">
-    <link rel="stylesheet" type="text/css" href="css/style.css">
-    <link rel="stylesheet" type="text/css" href="css/custom.css">
-    <link rel="stylesheet" type="text/css" href="css/animate.min.css">
-    {{-- <link href="css/animtrap.css" rel="stylesheet"> --}}
+    <link rel="stylesheet" type="text/css" href="{{asset('css/bootstrap.min.css')}}">
+    <link rel="stylesheet" type="text/css" href="{{asset('css/fontawesome-all.min.css')}}">
+    <link rel="stylesheet" type="text/css" href="{{asset('css/slick.css')}}">
+    <link rel="stylesheet" type="text/css" href="{{asset('css/style.css')}}">
+    <link rel="stylesheet" type="text/css" href="{{asset('css/custom.css')}}">
+    <link rel="stylesheet" type="text/css" href="{{asset('css/animate.min.css')}}">
+    <link href="css/animtrap.css" rel="stylesheet">
 
 </head>
 <body>
@@ -27,7 +27,7 @@
                                 <span class="icon-bar"></span>
                                 <span class="icon-bar"></span>
                             </button>
-                            <a class="navbar-brand" href="index.html"><img src="images/logonew.svg" alt="Hustbee"></a>
+                            <a class="navbar-brand" href="/"><img src="images/logonew.svg" alt="Hustbee"></a>
                         </div>
                         <div style="height: 1px;" role="main" aria-expanded="false" class="navbar-collapse collapse navbar-collapse-centered" id="bs">
                             <ul class="nav navbar-nav navbar-nav-centered">
@@ -82,7 +82,7 @@
                                     </div>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="domains.html">Domains</a>
+                                    <a class="nav-link" href="domains.html">Products</a>
                                 </li>
                             <li class="nav-item {{$activeContact}}">
                                     <a class="nav-link" href="Contact">Contact Us</a>
@@ -126,35 +126,37 @@
         <div class="row">
             <div class="col-xs-6 col-sm-2 col-md-2 col-lg-2">
                 <div class="footer-menu">
-                    <h4>Company</h4>
+                    <h4>Inovora</h4>
                     <ul>
-                        <li><a href="about.html">About us</a></li>
-                        <li><a href="blog.html">Press & Media</a></li>
-                        <li><a href="blog.html">News & Blog</a></li>
-                        <li><a href="contact.html">Contact Us</a></li>
-                        <li><a href="#">Careers</a></li>
+                        <li><a href="about.html">About Us</a></li>
+                        <li><a href="blog.html">Services</a></li>
+                        <li><a href="blog.html">Products</a></li>
+                        <li><a href="blog.html">Portfolio</a></li>
+                        <li><a href="contact.html">Blog</a></li>
+                        <li><a href="#">Contact Us</a></li>
                     </ul>
                 </div>
             </div>
             <div class="col-xs-6 col-sm-2 col-md-2 col-lg-2">
                 <div class="footer-menu">
-                    <h4>Hosting</h4>
+                    <h4>Services</h4>
                     <ul>
-                        <li><a href="webhosting.html">Web Hosting</a></li>
-                        <li><a href="wordpresshosting.html">Wordpress Hosting</a></li>
-                        <li><a href="cloudhosting.html">Cloud Hosting</a></li>
-                        <li><a href="vpshosting.html">VPS Hosting</a></li>
-                        <li><a href="dedicatedhosting.html">Dedicated Hosting</a></li>
+                        <li><a href="webhosting.html">Web Design</a></li>
+                        <li><a href="wordpresshosting.html">Web Application</a></li>
+                        <li><a href="wordpresshosting.html">E-Commerce</a></li>
+                        <li><a href="cloudhosting.html">Mobile Application</a></li>
+                        <li><a href="vpshosting.html">SEO</a></li>
+                        <li><a href="dedicatedhosting.html">Web Hosting</a></li>
                     </ul>
                 </div>
             </div>
             <div class="col-xs-6 col-sm-2 col-md-2 col-lg-2">
                 <div class="footer-menu">
-                    <h4>Domains</h4>
+                    <h4>Blog</h4>
                     <ul>
-                        <li><a href="domains.html">Register Domains</a></li>
-                        <li><a href="domains.html">Transfer Domains</a></li>
-                        <li><a href="domains.html">Manage Domains</a></li>
+                        <li><a href="domains.html">Latest Post</a></li>
+                        <li><a href="domains.html">News</a></li>
+                        <li><a href="domains.html">Forms</a></li>
                     </ul>
                 </div>
             </div>
@@ -163,8 +165,8 @@
                     <h4>Support</h4>
                     <ul>
                         <li><a href="login.html">Client area</a></li>
-                        <li><a href="#">Tutorials</a></li>
-                        <li><a href="#">Documentation</a></li>
+                        <li><a href="#">Support Center</a></li>
+                        <li><a href="#">CRM</a></li>
                         <li><a href="#">Forums</a></li>
                     </ul>  
                 </div>
@@ -179,9 +181,9 @@
                         <li><a href="#"><i class="fab fa-instagram"></i></a></li>
                     </ul>
                     <ul>
-                        <li>Tel: +(973) 17 880038</li>
+                        <li>Tel: +(94) 71 542 14 23</li>
                         <li><a href="#">Chatting service</a></li>
-                        <li><a href="#">Submit a ticket</a></li>
+                        <li><a href="#">Create Account</a></li>
                         <li><a href="#">Our location</a></li>
                     </ul>
                 </div>
@@ -213,8 +215,8 @@
 <script src="js/custom.js"></script>
 <script src="js/magnific.min.js"></script>
 <script src="js/jquery.counter.min.js"></script>
-{{-- <script src="js/anim-trap.js"></script> --}}
-{{-- <script src="js/anim-scroll.js"></script> --}}
+<script src="js/anim-trap.js"></script>
+<script src="js/anim-scroll.js"></script>
 
 
 <script>

@@ -7,26 +7,15 @@
             <div class="row">
                 <div class="col-sm-12">
                     <div class="page-title">Contact us / Support</div>
-                    <div class="page-subtitle">Search a domain of your choise. Get your website up and running</div>
+                    <div class="page-subtitle">There’s nothing we love more than working on new projects, so if you have a query regarding a venture of yours, or anything else for that matter, do get in touch and we will get back to you as soon as possible!</div>
                 </div>
             </div>
         </div>
     </div>
 </div>
-{{-- <div class="search-row container-fluid">
-    <div class="container">
-        <div class="row">
-            <div class="col-sm-12">
-                <div class="search-question-holder">
-                    <form>
-                        <input class="search-input" type="text" placeholder="Search a question"><button class="btn-search"><img src="images/btn-search.svg" alt=""></button>
-                    </form>
-                </div>
-            </div>
-        </div>
-    </div>
-</div> --}}
-<div class="support-details container-fluid">
+
+
+<div class="support-details container-fluid" style="background-color: #f7f7f7;">
     <div class="container">
         <div class="row">
             <div class="col-sm-6 col-md-3">
@@ -212,6 +201,12 @@
         </div>
     </div>
 </div>
+
+
+
+
+
+
 <div class="support-links container-fluid">
     <div class="row">
         <div class="col-sm-6 hylink-holder">
