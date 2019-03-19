@@ -33,7 +33,7 @@
                             <ul class="nav navbar-nav navbar-nav-centered">
                             <li class="nav-item {{$activeindex}}"><a class="nav-link" href="/">Home</a></li>
                                 <li class="nav-item dropdown">
-                                    <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown">Services</a>
+                                    <a class="nav-link " href="#" data-toggle="dropdown">Services</a>
                                     <div class="dropdown-menu custom-dropdown-menu">
                                         <div class="dropdown-items-holder">
                                             <div class="items-with-icon">
@@ -62,13 +62,13 @@
                                                             <span class="text">Enterprise</span>
                                                         </a>
                                                         <a href="domains.html" class="link-with-icon">
-                                                            <span class="icon"><img src="images/server6.svg" alt=""></span>
+                                                            <span class="icon"><img src="images/server3.svg" alt=""></span>
                                                             <span class="text">Web Hosting</span>
                                                         </a>
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="items">
+                                            {{-- <div class="items">
                                                 <div class="row">
                                                     <div class="col-xs-12 col-sm-6">
                                                         <a href="#" class="link">Hustbee Features</a>
@@ -77,7 +77,7 @@
                                                         <a href="#" class="link">Website builder</a>
                                                     </div>
                                                 </div>
-                                            </div>
+                                            </div> --}}
                                         </div>
                                     </div>
                                 </li>
@@ -120,12 +120,12 @@
 
     @yield('content')
 
-    <div class="footer container-fluid">
+    <div class="footer container-fluid" data-animscroll="fade-up">
     <a class="btn-go-top" href="#"><i class="hstb hstb-down-arrow"></i></a>
     <div class="container">
         <div class="row">
             <div class="col-xs-6 col-sm-2 col-md-2 col-lg-2">
-                <div class="footer-menu">
+                <div class="footer-menu" data-animscroll="fade-in" data-animscroll-delay="200">
                     <h4>Inovora</h4>
                     <ul>
                         <li><a href="about.html">About Us</a></li>
@@ -138,7 +138,7 @@
                 </div>
             </div>
             <div class="col-xs-6 col-sm-2 col-md-2 col-lg-2">
-                <div class="footer-menu">
+                <div class="footer-menu" data-animscroll="fade-in" data-animscroll-delay="400">
                     <h4>Services</h4>
                     <ul>
                         <li><a href="webhosting.html">Web Design</a></li>
@@ -151,7 +151,7 @@
                 </div>
             </div>
             <div class="col-xs-6 col-sm-2 col-md-2 col-lg-2">
-                <div class="footer-menu">
+                <div class="footer-menu" data-animscroll="fade-in" data-animscroll-delay="600">
                     <h4>Blog</h4>
                     <ul>
                         <li><a href="domains.html">Latest Post</a></li>
@@ -161,7 +161,7 @@
                 </div>
             </div>
             <div class="col-xs-6 col-sm-3 col-md-3 col-lg-3">
-                <div class="footer-menu">
+                <div class="footer-menu" data-animscroll="fade-in" data-animscroll-delay="800">
                     <h4>Support</h4>
                     <ul>
                         <li><a href="login.html">Client area</a></li>
@@ -172,7 +172,7 @@
                 </div>
             </div>
             <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
-                <div class="footer-menu custom-footer-menu">
+                <div class="footer-menu custom-footer-menu" data-animscroll="fade-in" data-animscroll-delay="1000">
                     <h4>Contact us</h4>
                     <ul class="social">
                         <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
@@ -194,7 +194,6 @@
                 <div class="col-md-6">
                     <div class="sub-footer-menu">
                         <ul>
-                            <li><a href="#">Sitemap</a></li>
                             <li><a href="#">Terms of Service</a></li>
                             <li><a href="privacy">Privacy Policy</a></li>
                         </ul>        
