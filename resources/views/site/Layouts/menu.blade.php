@@ -33,7 +33,7 @@
                             <ul class="nav navbar-nav navbar-nav-centered">
                             <li class="nav-item {{$activeindex}}"><a class="nav-link" href="/">Home</a></li>
                                 <li class="nav-item dropdown">
-                                    <a class="nav-link " href="#" data-toggle="dropdown">Services</a>
+                                    <a class="nav-link" href="#" data-toggle="dropdown">Services</a>
                                     <div class="dropdown-menu custom-dropdown-menu">
                                         <div class="dropdown-items-holder">
                                             <div class="items-with-icon">
@@ -61,7 +61,7 @@
                                                             <span class="icon"><img src="images/server5.svg" alt=""></span>
                                                             <span class="text">Enterprise</span>
                                                         </a>
-                                                        <a href="domains.html" class="link-with-icon">
+                                                        <a href="webhosting" class="link-with-icon ">
                                                             <span class="icon"><img src="images/server3.svg" alt=""></span>
                                                             <span class="text">Web Hosting</span>
                                                         </a>

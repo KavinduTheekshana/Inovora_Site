@@ -16,7 +16,7 @@
 
 
 
-<section id="page-helf-photo">
+<section id="page-helf-photo" >
     <div class="left-helf-of-page"></div>
     <div class="right-helf-of-page">
         <h5>We Have 21 Years of Experience</h5>
@@ -31,6 +31,164 @@
         </div>
     </div>
 </section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section id="our-team" style="background: #eff1fe;">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="our-team-tittle">
+                    <h5>our team<span>Lorem Ipsum Dolor Sit Amet</span></h5>
+                </div>
+            </div>
+        </div>
+
+        <div class="row text-center">
+            <div class="col-md-12">
+                <div class="col-sm-6 col-md-3">
+                    <div class="aothor-box">
+                        <img src="images\about.jpg" alt="author" />
+                        <h5>moh nedjai</h5>
+                        <span>CEO</span>
+                        <div class="social">
+                            <a class="fbic" href="#"><i class="fab fa-facebook-f"></i></a>
+                            <a class="twic" href="#"><i class="fab fa-twitter"></i></a>
+                            <a class="dric" href="#"><i class="fab fa-dribbble"></i></a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-3">
+                    <div class="aothor-box">
+                        <img src="images\about.jpg" alt="author" />
+                        <h5>moh nedjai</h5>
+                        <span>CEO</span>
+                        <div class="social">
+                            <a class="fbic" href="#"><i class="fab fa-facebook-f"></i></a>
+                            <a class="twic" href="#"><i class="fab fa-twitter"></i></a>
+                            <a class="dric" href="#"><i class="fab fa-dribbble"></i></a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-3">
+                    <div class="aothor-box">
+                        <img src="images\about.jpg" alt="author" />
+                        <h5>moh nedjai</h5>
+                        <span>CEO</span>
+                        <div class="social">
+                            <a class="fbic" href="#"><i class="fab fa-facebook-f"></i></a>
+                            <a class="twic" href="#"><i class="fab fa-twitter"></i></a>
+                            <a class="dric" href="#"><i class="fab fa-dribbble"></i></a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-3">
+                    <div class="aothor-box">
+                        <img src="images\about.jpg" alt="author" />
+                        <h5>moh nedjai</h5>
+                        <span>CEO</span>
+                        <div class="social">
+                            <a class="fbic" href="#"><i class="fab fa-facebook-f"></i></a>
+                            <a class="twic" href="#"><i class="fab fa-twitter"></i></a>
+                            <a class="dric" href="#"><i class="fab fa-dribbble"></i></a>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+
+        <div class="row text-center">
+            <div class="col-md-12">
+                <div class="col-sm-6 col-md-3">
+                    <div class="aothor-box">
+                        <img src="images\about.jpg" alt="author" />
+                        <h5>moh nedjai</h5>
+                        <span>CEO</span>
+                        <div class="social">
+                            <a class="fbic" href="#"><i class="fab fa-facebook-f"></i></a>
+                            <a class="twic" href="#"><i class="fab fa-twitter"></i></a>
+                            <a class="dric" href="#"><i class="fab fa-dribbble"></i></a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-3">
+                    <div class="aothor-box">
+                        <img src="images\about.jpg" alt="author" />
+                        <h5>moh nedjai</h5>
+                        <span>CEO</span>
+                        <div class="social">
+                            <a class="fbic" href="#"><i class="fab fa-facebook-f"></i></a>
+                            <a class="twic" href="#"><i class="fab fa-twitter"></i></a>
+                            <a class="dric" href="#"><i class="fab fa-dribbble"></i></a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-3">
+                    <div class="aothor-box">
+                        <img src="images\about.jpg" alt="author" />
+                        <h5>moh nedjai</h5>
+                        <span>CEO</span>
+                        <div class="social">
+                            <a class="fbic" href="#"><i class="fab fa-facebook-f"></i></a>
+                            <a class="twic" href="#"><i class="fab fa-twitter"></i></a>
+                            <a class="dric" href="#"><i class="fab fa-dribbble"></i></a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-3">
+                    <div class="aothor-box">
+                        <img src="images\about.jpg" alt="author" />
+                        <h5>moh nedjai</h5>
+                        <span>CEO</span>
+                        <div class="social">
+                            <a class="fbic" href="#"><i class="fab fa-facebook-f"></i></a>
+                            <a class="twic" href="#"><i class="fab fa-twitter"></i></a>
+                            <a class="dric" href="#"><i class="fab fa-dribbble"></i></a>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+
+        
+    </div>
+</section>
+
+</section>
+
+
+
+
+
+
+
+
+
 
 
 
@@ -259,7 +417,6 @@
 </div>
   </section>
 <!-- End Testimonial Style -->
-
 
 
 

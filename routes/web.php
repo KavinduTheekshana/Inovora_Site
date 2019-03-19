@@ -85,6 +85,15 @@ Route::get('Register', function()
     return view('site.register',['title'=>$title,'registeractive'=>$registeractive,'loginactive'=>$loginactive]);
 });
 
+Route::get('webhosting', function()
+{
+    $title='Web Hosting';
+    $registeractive='active';
+    $loginactive='';
+    return view('site.webhosting',['title'=>$title,'registeractive'=>$registeractive,'loginactive'=>$loginactive]);
+});
+
+
 Route::get('admin','AdminController@login');
 
 Route::post('/addUser', 'UserController@addUser');
