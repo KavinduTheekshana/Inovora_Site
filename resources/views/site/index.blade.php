@@ -15,8 +15,8 @@
                                     </div>
                                 </div>
                                 <div class="col-sm-7">
-                                    <div class="b-text">Outstanding Web<br>Design for you.</div>
-                                    <div class="m-text">We Design High Quality,User Friendly,<br>Attractive Web Sites For You</div>
+                                    <div class="b-text">Outstanding<br> Web<br>Designs for you</div>
+                                    <div class="m-text">Uniqueness And Interactivity<br>Is What We're All About</div>
                                     <a href="#" class="hbtn hbtn-primary hbtn-lg">Our Works</a>
                                 </div>
                             </div>
@@ -29,8 +29,8 @@
                                     </div>
                                 </div>
                                 <div class="col-sm-7">
-                                    <div class="b-text">We Create your<br>Web Applications.</div>
-                                    <div class="m-text">We Build Super Fast, Multipurpose, Creative<br>Web Aplications For Your Business</div>
+                                    <div class="b-text">Web Apps<br>with Latest Technologies</div>
+                                    <div class="m-text">Build Your Business with Super Fast, Multipurpose,<br> Creative Web Aplications</div>
                                     <a href="#" class="hbtn hbtn-primary hbtn-lg">See It Now</a>
                                 </div>
                             </div>
@@ -43,8 +43,8 @@
                                     </div>
                                 </div>
                                 <div class="col-sm-7">
-                                    <div class="b-text">We Build Mobile<br>Applications.</div>
-                                    <div class="m-text">We Build High Quality, High Preference Hybrid Applications in Android And IOS</div>
+                                    <div class="b-text">Mobile<br>Application Development</div>
+                                    <div class="m-text">Get In the Digital Game With High Quality, Highly Responsive Hybrid Applications in Android And iOS</div>
                                     <a href="#" class="hbtn hbtn-primary hbtn-lg">See It Now</a>
                                 </div>
                             </div>
@@ -57,9 +57,9 @@
                                     </div>
                                 </div>
                                 <div class="col-sm-7">
-                                    <div class="b-text">Build Standalone<br>Programs</div>
-                                    <div class="m-text">We Are Build Standalone Systems As You Requires</span></div>
-                                    <a href="#" class="hbtn hbtn-primary hbtn-lg">Learn more</a>
+                                    <div class="b-text">Software<br> For Your Growing<br>Business</div>
+                                    <div class="m-text">Unique Standalone Application <br> For Your Business</span></div>
+                                    <a href="#" class="hbtn hbtn-primary hbtn-lg">Learn More</a>
                                 </div>
                             </div>
                         </div>
@@ -72,7 +72,7 @@
                                     </div>
                                     <div class="col-sm-7">
                                         <div class="b-text">Host Your Websites<br>in Powerfull Servers</div>
-                                        <div class="m-text">High Performance Web Hosting and Get More Secure and Stable Cpanel Hosting</div>
+                                        <div class="m-text">High Performance Web Hosting With Maximum Security And 99.9% Uptime Guarantee</div>
                                         <a href="#" class="hbtn hbtn-primary hbtn-lg">Order Now</a>
                                     </div>
                                 </div>
@@ -103,7 +103,7 @@
                             <div class="row">
                                 <div class="col-xs-12">
                                     <div class="main-domain-search-holder">
-                                        <div class="b-text">DOMAIN SEARCH</div>
+                                        <div class="b-text">Search For Your Domain Name</div>
                                         <form>
                                             <div class="row">
                                                 <div class="col-md-12">
@@ -148,7 +148,7 @@
                                         <img src="icons/ic01.png" alt="" />
                                         <h5>Web Design / Develop</h5>
                                         <p>Website carry your business identity over internet. Creative, 
-                                        Proffessional and Mobile Friendly and Fast Loading website attracts more customer. </p>
+                                        Proffessional and Mobile Friendly and Fast Loading website attracts more customer</p>
                                     </div>
                                 </div> <!-- END WHY US -->
 
@@ -157,7 +157,7 @@
                                         <img src="icons/ic02.png" alt="" />
                                         <h5>Standalone</h5>
                                         <p>Access your business / organization data in a top secured way while you abroad 
-                                        or even at the moon if there internet available. </p>
+                                        or even at the moon if there internet available</p>
                                     </div>
                                 </div> <!-- END WHY US -->
 
@@ -165,8 +165,8 @@
                                     <div class="ftr-host no-right wow fadeIn" data-wow-delay="0.5s">
                                         <img src="icons/ic03.png" alt="" />
                                         <h5>E-Commerce</h5>
-                                        <p>Accept payments online and maintain your business store online with easy management and high 
-                                        secure way.High Security And Creative User Interface</p>
+                                        <p>Accept payments online and maintain your business store online with easy management and in a high 
+                                        secure way</p>
                                     </div>
                                 </div>
                             </div> <!-- END WHY US -->
@@ -176,8 +176,8 @@
                                     <div class="ftr-host no-bottm wow fadeIn">
                                         <img src="icons/ic04.png" alt="" />
                                         <h5>Mobile Application</h5>
-                                        <p>iPhone, Android and Windows Mobile Apps with Access All Sensors and Creative Ideas With Responsive UI 
-                                        and Great Communication with Your Web Site</p>
+                                        <p>We develop  mobile apps for any mobile platform to extend your idea with coolest responsive UI 
+                                        and with the best enhanced UX and aslo guarantee the best communication with your web site</p>
                                     </div>
                                 </div> <!-- END WHY US -->
 
@@ -185,8 +185,8 @@
                                     <div class="ftr-host no-bottm wow fadeIn">
                                         <img src="icons/ic05.png" alt="" />
                                         <h5>SEO</h5>
-                                        <p>Stand on top of search results and increase sale. We do on-site and off-site SEO optimization to
-                                         be on first page in search engines like Google. </p>
+                                        <p>Stand on top of search results and increase sales. We do on-site and off-site SEO optimization to
+                                         get you on the first page in search engines like Google,Yahoo and Bing </p>
                                     </div>
                                 </div> <!-- END WHY US -->
 
@@ -227,7 +227,7 @@
             <div class="col-sm-7">
                 <div class="feature-info" data-animscroll="fade-right">
                     <div class="feature-title">Hosting For Every Website</div>
-                    <div class="feature-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas posuere euismod dui eget ultrices. Cras condimentum dui eget erat commodo, in venenatis eros blandit.</div>
+                    <div class="feature-text">INOVORA helps you to put your ideas online. That’s why all our hosting products, from single-page websites to dedicated servers, come with powerful tools and rock-solid security</div>
                     <div class="feature-link"><a href="#" class="hbtn hbtn-default">Get Started!</a></div>
                 </div>
             </div>
@@ -240,8 +240,8 @@
             </div>
             <div class="col-sm-7 def-aligned">
                 <div class="feature-info" data-animscroll="fade-left">
-                    <div class="feature-title">In a hurry? let’s start!</div>
-                    <div class="feature-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas posuere euismod dui eget ultrices. Cras condimentum dui eget erat commodo, in venenatis eros blandit.</div>
+                    <div class="feature-title">In a Hurry? Let’s Start!</div>
+                    <div class="feature-text">Want to host your idea ASAP. We have a number of new packages waiting for you. Select one and start your journey today with INOVORA</div>
                     <div class="feature-link"><a href="#" class="hbtn hbtn-default">Get Started!</a></div>
                 </div>
             </div>
@@ -255,7 +255,7 @@
             <div class="col-sm-7">
                 <div class="feature-info" data-animscroll="fade-right">
                     <div class="feature-title">Grow with us</div>
-                    <div class="feature-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas posuere euismod dui eget ultrices. Cras condimentum dui eget erat commodo, in venenatis eros blandit.</div>
+                    <div class="feature-text">Start growing your business today. We will empower you with latest technologies and various aspects of Digital Marketing. Our team will be there assisting you 24/7 with our brand new Customer Management System</div>
                     <div class="feature-link"><a href="#" class="hbtn hbtn-default">Get Started!</a></div>
                 </div>
             </div>
@@ -273,7 +273,7 @@
         <div class="">
             <div class="row">
                 <div class="col-md-12">
-                    <div class="row-title" data-animscroll="fade-up">Our Design Process</div>
+                    <div class="row-title" data-animscroll="fade-up">Our Development Process</div>
                 </div>
             </div>
             <div class="row" data-animscroll="fade-up">
@@ -282,36 +282,36 @@
                 <div class="col-sm-2 col-md-2" data-animscroll="fade-in" data-animscroll-delay="250">
                     <div class="dfeature-box">
                         <div class="icon"><i class="fab fa-connectdevelop"></i></div>
-                        <div class="title">Planning</div>
-                        <div class="details">Understanding what you want out of your site and how do you plant to implement it.</div>
+                        <div class="title">PLANNING</div>
+                        <div class="details">Analyse your ideas to build up what you want</div>
                     </div>
                 </div>
                 <div class="col-sm-2 col-md-2" data-animscroll="fade-in" data-animscroll-delay="500">
                     <div class="dfeature-box">
                         <div class="icon"><i class="fas fa-pencil-alt"></i></i></div>
-                        <div class="title">Design</div>
-                        <div class="details">We will Create a beautiful, affordable website design for your creative marketing project</div>
+                        <div class="title">DESIGN</div>
+                        <div class="details">Your idea will design in to an affordable project</div>
                     </div>
                 </div>
                 <div class="col-sm-2 col-md-2" data-animscroll="fade-in" data-animscroll-delay="750">
                     <div class="dfeature-box">
                         <div class="icon"><i class="fas fa-file-code"></i></div>
                         <div class="title">DEVELOPMENT</div>
-                        <div class="details">We develop content management systems for clients who need more than just the basics</div>
+                        <div class="details">Coding starts here to push your idea to the real world</div>
                     </div>
                 </div>
                 <div class="col-sm-2 col-md-2" data-animscroll="fade-in" data-animscroll-delay="1000">
                         <div class="dfeature-box">
                             <div class="icon"><i class="fas fa-desktop"></i></div>
                             <div class="title">LAUNCH</div>
-                            <div class="details">After successful testing the product is delivered / deployed to the customer for their use</div>
+                            <div class="details">Final product will be delivered to you</div>
                         </div>
                 </div>
                 <div class="col-sm-2 col-md-2" data-animscroll="fade-in" data-animscroll-delay="1250">
                         <div class="dfeature-box">
                             <div class="icon"><i class="fas fa-cogs"></i></div>
                             <div class="title">MAINTENANCE</div>
-                            <div class="details">It is an important step which makes sure that your site works with efficiency all the time</div>
+                            <div class="details">We will take care of your product as long as you want</div>
                         </div>
                 </div>
                 <div class="col-sm-1 col-md-1">
@@ -455,8 +455,8 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title text-center" data-animscroll="fade-up">
-                        <h2 data-animscroll="fade-up">Our Clients Say</h2>
-                        <p data-animscroll="fade-up" data-animscroll-delay="100">Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore</p>
+                        <h2 data-animscroll="fade-up">TESTIMONIALS</h2>
+                        <p data-animscroll="fade-up" data-animscroll-delay="100">We have 100++ happy customers all over the world</p>
                     </div>
                 </div>
             </div>
@@ -465,12 +465,12 @@
                     <!-- Start Single Testimonial -->
                     <div class="testimonial-style-3  testimonial-grid-2">
                         <div class="testimonal">
-                            <img src="images/testimoniail/01.png" alt="testimonal image">
+                            <img src="images/testimoniail/kaveesh.jpg" alt="testimonal image">
                             <div class="content">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicill elit, sed do eiusmo
-                                    tempor incididunt ut labore etll dolore magna aliqua Ut enim.</p>
+                                <p>INOVORA provides best and quality service for POS systems.
+                                     They provide the best customer service also. Their work and service is really amazing. Thumbs up</p>
                                 <div class="clint-info">
-                                    <h4>Peter Rose</h4>
+                                    <h4>Samintha</h4>
                                     <span>Customer</span>
                                 </div>
                             </div>
@@ -483,12 +483,12 @@
                     <!-- Start Single Testimonial -->
                     <div class="testimonial-style-3  testimonial-grid-2">
                         <div class="testimonal">
-                            <img src="images/testimoniail/01.png" alt="testimonal image">
+                            <img src="images/testimoniail/nishara.jpg" alt="testimonal image">
                             <div class="content">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicill elit, sed do eiusmo
-                                    tempor incididunt ut labore etll dolore magna aliqua Ut enim.</p>
+                                <p>INOVORA company is best at their field.We took their service also.They have good Customer service too.
+                                    Highly recommended company</p>
                                 <div class="clint-info">
-                                    <h4>Peter Rose</h4>
+                                    <h4>Nishara</h4>
                                     <span>Customer</span>
                                 </div>
                             </div>
@@ -497,50 +497,17 @@
                     <!-- End Single Testimonial -->
                 </div>
 
-                <div class="col-lg-6">
-                    <!-- Start Single Testimonial -->
-                    <div class="testimonial-style-3 testimonial-grid-2">
-                        <div class="testimonal">
-                            <img src="images/testimoniail/02.png" alt="testimonal image">
-                            <div class="content">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicill elit, sed do eiusmo
-                                    tempor incididunt ut labore etll dolore magna aliqua Ut enim.</p>
-                                <div class="clint-info">
-                                    <h4>Wandr Rose</h4>
-                                    <span>Customer</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- End Single Testimonial -->
-                </div>
-                <div class="col-lg-6">
-                    <!-- Start Single Testimonial -->
-                    <div class="testimonial-style-3 testimonial-grid-2">
-                        <div class="testimonal">
-                            <img src="images/testimoniail/01.png" alt="testimonal image">
-                            <div class="content">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicill elit, sed do eiusmo
-                                    tempor incididunt ut labore etll dolore magna aliqua Ut enim.</p>
-                                <div class="clint-info">
-                                    <h4>Peter Rose</h4>
-                                    <span>Customer</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- End Single Testimonial -->
-                </div>
+                
                 <div class="col-lg-6">
                     <!-- Start Single Testimonial -->
                     <div class="testimonial-style-3 bg_color--2 testimonial-grid-2">
                         <div class="testimonal">
-                            <img src="images/testimoniail/02.png" alt="testimonal image">
+                            <img src="images/testimoniail/peshani.jpg" alt="testimonal image">
                             <div class="content">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicill elit, sed do eiusmo
-                                    tempor incididunt ut labore etll dolore magna aliqua Ut enim.</p>
+                                <p>Excellent service provided by INOVORA for their customers. Really appreciate your work.
+                                     Thank you for your great service</p>
                                 <div class="clint-info">
-                                    <h4>Rosho JP</h4>
+                                    <h4>Peshani</h4>
                                     <span>Customer</span>
                                 </div>
                             </div>
@@ -654,8 +621,8 @@
                                <!-- counter start -->
                                <div class=" text-center mt-30" data-animscroll="fade-up" data-animscroll-delay="100">
                                     <div class="row" data-animscroll="fade-up" data-animscroll-delay="200">
-                                   <h3 style=""><span style="color: #ffc600;font-weight: bold;font-size: 1.9em;">Come, be a Part of Our </span> <span style="color: cornsilk;font-weight: bold;font-size: 1.9em;"> Growing Family </span></h3>
-                                   <div data-animscroll="fade-up" data-animscroll-delay="300" class="feature-link"><a href="#" class="hbtn hbtn-default2">Get Started!</a></div>
+                                   <h3 style=""><span style="color: #ffc600;font-weight: bold;font-size: 1.9em;">Be a Partner of Our </span> <span style="color: cornsilk;font-weight: bold;font-size: 1.9em;"> Growing Family </span></h3>
+                                   <div data-animscroll="fade-up" data-animscroll-delay="300" class="feature-link"><a href="#" class="hbtn hbtn-default2">Join Us!</a></div>
                                     </div>
                                </div>
                                <!-- counter end -->
@@ -726,7 +693,7 @@
         <div class="row">
             <div class="col-sm-8" data-animscroll="fade-right">
                 <div class="row-title">
-                    Latest news from our blog
+                    Latest Blog Updates
                 </div>
             </div>
             <div class="col-sm-4" data-animscroll="fade-left">
@@ -769,12 +736,12 @@
     <div class="container">
         <form>
             <div class="row">
-                <div data-animscroll="fade-right" class="col-sm-12 col-md-3 col-lgmd-4"><div class="title">News Letter</div></div>
+                <div data-animscroll="fade-right" class="col-sm-12 col-md-3 col-lgmd-4"><div class="title">NEWSLETTER</div></div>
                 <div data-animscroll="fade-up" class="col-sm-8 col-md-6 col-lgmd-6">
                     <input class="domain-input" type="text" placeholder="Your Emali"> 
                 </div>
                 <div data-animscroll="fade-left" class="col-sm-4 col-md-3 col-lgmd-2">
-                    <button type="submit">Subscribe</button>
+                    <button type="submit">SUBSCRIBE</button>
                 </div>
             </div>
         </form>
@@ -786,16 +753,16 @@
     <div class="row">
         <div class="col-sm-6 hylink-holder" data-animscroll="fade-right">
             <div class="hylink-box" data-animscroll="fade-up" data-animscroll-delay="200"> 
-                <div class="icon"><img src="images/info.svg" alt=""></div>
+                <div class="icon"><img src="images/info.svg" alt=""></div><br>
                 <a href="#" class="link">Let’s talk</a>
-                <div class="text">Sed ut perspiciatis unde omnis iste natus error sit voluptatem ccusantium.</div>
+                <!--<div class="text">Sed ut perspiciatis unde omnis iste natus error sit voluptatem ccusantium.</div>-->
             </div>
         </div>
         <div class="col-sm-6 hylink-holder" data-animscroll="fade-left" >
             <div class="hylink-box" data-animscroll="fade-up" data-animscroll-delay="200">
-                <div class="icon"><img src="images/chat.svg" alt=""></div>
+                <div class="icon"><img src="images/chat.svg" alt=""></div><br>
                 <a href="#" class="link">Go to support center</a>
-                <div class="text">Sed ut perspiciatis unde omnis iste natus error sit voluptatem ccusantium.</div>
+                <!--<div class="text">Sed ut perspiciatis unde omnis iste natus error sit voluptatem ccusantium.</div>-->
             </div>
         </div>
     </div>
