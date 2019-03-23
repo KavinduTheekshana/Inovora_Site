@@ -30,7 +30,7 @@
                                 </div>
                                 <div class="col-sm-7">
                                     <div class="b-text">Web Apps<br>with Latest Technologies</div>
-                                    <div class="m-text">Build Your Business with Super Fast, Multipurpose,<br> CreativeWeb Aplications</div>
+                                    <div class="m-text">Build Your Business with Super Fast, Multipurpose,<br> Creative Web Aplications</div>
                                     <a href="#" class="hbtn hbtn-primary hbtn-lg">See It Now</a>
                                 </div>
                             </div>
@@ -455,8 +455,8 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title text-center" data-animscroll="fade-up">
-                        <h2 data-animscroll="fade-up">Our Clients Say</h2>
-                        <p data-animscroll="fade-up" data-animscroll-delay="100">Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore</p>
+                        <h2 data-animscroll="fade-up">TESTIMONIALS</h2>
+                        <p data-animscroll="fade-up" data-animscroll-delay="100">We have 100++ happy customers all over the world</p>
                     </div>
                 </div>
             </div>
@@ -465,12 +465,12 @@
                     <!-- Start Single Testimonial -->
                     <div class="testimonial-style-3  testimonial-grid-2">
                         <div class="testimonal">
-                            <img src="images/testimoniail/01.png" alt="testimonal image">
+                            <img src="images/testimoniail/kaveesh.jpg" alt="testimonal image">
                             <div class="content">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicill elit, sed do eiusmo
-                                    tempor incididunt ut labore etll dolore magna aliqua Ut enim.</p>
+                                <p>INOVORA provides best and quality service for POS systems.
+                                     They provide the best customer service also. Their work and service is really amazing. Thumbs up</p>
                                 <div class="clint-info">
-                                    <h4>Peter Rose</h4>
+                                    <h4>Samintha</h4>
                                     <span>Customer</span>
                                 </div>
                             </div>
@@ -483,12 +483,12 @@
                     <!-- Start Single Testimonial -->
                     <div class="testimonial-style-3  testimonial-grid-2">
                         <div class="testimonal">
-                            <img src="images/testimoniail/01.png" alt="testimonal image">
+                            <img src="images/testimoniail/nishara.jpg" alt="testimonal image">
                             <div class="content">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicill elit, sed do eiusmo
-                                    tempor incididunt ut labore etll dolore magna aliqua Ut enim.</p>
+                                <p>INOVORA company is best at their field.We took their service also.They have good Customer service too.
+                                    Highly recommended company</p>
                                 <div class="clint-info">
-                                    <h4>Peter Rose</h4>
+                                    <h4>Nishara</h4>
                                     <span>Customer</span>
                                 </div>
                             </div>
@@ -497,50 +497,17 @@
                     <!-- End Single Testimonial -->
                 </div>
 
-                <div class="col-lg-6">
-                    <!-- Start Single Testimonial -->
-                    <div class="testimonial-style-3 testimonial-grid-2">
-                        <div class="testimonal">
-                            <img src="images/testimoniail/02.png" alt="testimonal image">
-                            <div class="content">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicill elit, sed do eiusmo
-                                    tempor incididunt ut labore etll dolore magna aliqua Ut enim.</p>
-                                <div class="clint-info">
-                                    <h4>Wandr Rose</h4>
-                                    <span>Customer</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- End Single Testimonial -->
-                </div>
-                <div class="col-lg-6">
-                    <!-- Start Single Testimonial -->
-                    <div class="testimonial-style-3 testimonial-grid-2">
-                        <div class="testimonal">
-                            <img src="images/testimoniail/01.png" alt="testimonal image">
-                            <div class="content">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicill elit, sed do eiusmo
-                                    tempor incididunt ut labore etll dolore magna aliqua Ut enim.</p>
-                                <div class="clint-info">
-                                    <h4>Peter Rose</h4>
-                                    <span>Customer</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- End Single Testimonial -->
-                </div>
+                
                 <div class="col-lg-6">
                     <!-- Start Single Testimonial -->
                     <div class="testimonial-style-3 bg_color--2 testimonial-grid-2">
                         <div class="testimonal">
-                            <img src="images/testimoniail/02.png" alt="testimonal image">
+                            <img src="images/testimoniail/peshani.jpg" alt="testimonal image">
                             <div class="content">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicill elit, sed do eiusmo
-                                    tempor incididunt ut labore etll dolore magna aliqua Ut enim.</p>
+                                <p>Excellent service provided by INOVORA for their customers. Really appreciate your work.
+                                     Thank you for your great service</p>
                                 <div class="clint-info">
-                                    <h4>Rosho JP</h4>
+                                    <h4>Peshani</h4>
                                     <span>Customer</span>
                                 </div>
                             </div>
