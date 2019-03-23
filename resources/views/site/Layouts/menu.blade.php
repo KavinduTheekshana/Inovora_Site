@@ -31,7 +31,7 @@
                         </div>
                         <div style="height: 1px;" role="main" aria-expanded="false" class="navbar-collapse collapse navbar-collapse-centered" id="bs">
                             <ul class="nav navbar-nav navbar-nav-centered">
-                            <li class="nav-item {{$activeindex}}"><a class="nav-link" href="/">Home</a></li>
+                            <li class="nav-item {{$activeindex}}"><a class="nav-link" href="/Inovora_Site/public/">Home</a></li>
                                 <li class="nav-item dropdown">
                                     <a class="nav-link" href="#" data-toggle="dropdown">Services</a>
                                     <div class="dropdown-menu custom-dropdown-menu">
