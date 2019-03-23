@@ -621,7 +621,7 @@
                                <!-- counter start -->
                                <div class=" text-center mt-30" data-animscroll="fade-up" data-animscroll-delay="100">
                                     <div class="row" data-animscroll="fade-up" data-animscroll-delay="200">
-                                   <h3 style=""><span style="color: #ffc600;font-weight: bold;font-size: 1.9em;">Be a Partner of Our </span> <span style="color: cornsilk;font-weight: bold;font-size: 1.9em;"> Growing Family </span></h3>
+                                   <h3 style=""><span style="color: #ffc600;font-weight: bold;font-size: 1.9em;">Be a Partner of Our </span> <span style="color: cornsilk;font-weight: bold;font-size: 1.9em;"> Proud Family </span></h3>
                                    <div data-animscroll="fade-up" data-animscroll-delay="300" class="feature-link"><a href="#" class="hbtn hbtn-default2">Join Us!</a></div>
                                     </div>
                                </div>
