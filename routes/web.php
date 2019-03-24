@@ -88,9 +88,16 @@ Route::get('Register', function()
 Route::get('webhosting', function()
 {
     $title='Web Hosting';
-    $registeractive='active';
-    $loginactive='';
-    return view('site.webhosting',['title'=>$title,'registeractive'=>$registeractive,'loginactive'=>$loginactive]);
+    $cssclass='innerpage clouds-bg';
+    $activeindex='';
+    $activeContact='';
+    $activeAbout='';
+    $activeBlog='active';
+    return view('site.webhosting',['title'=>$title,'cssclass'=>$cssclass,'activeContact'=>$activeContact,'activeindex'=>$activeindex,
+    'activeAbout'=>$activeAbout,'activeBlog'=>$activeBlog]);
+
+    
+    
 });
 
 
