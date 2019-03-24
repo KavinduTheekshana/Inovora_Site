@@ -99,7 +99,7 @@
                             </div> -->
                         </div>
 
-                        <div class="slide">
+                        {{-- <div class="slide">
                             <div class="row">
                                 <div class="col-xs-12">
                                     <div class="main-domain-search-holder">
@@ -120,7 +120,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div> --}}
 
 
                     </div>

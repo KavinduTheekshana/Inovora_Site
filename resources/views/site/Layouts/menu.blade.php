@@ -39,7 +39,7 @@
                                             <div class="items-with-icon">
                                                 <div class="row">
                                                     <div class="col-xs-12 col-sm-6">
-                                                        <a href="webhosting.html" class="link-with-icon">
+                                                        <a href="webhosting" class="link-with-icon">
                                                             <span class="icon"><img src="images/server1.svg" alt=""></span>
                                                             <span class="text">Web Design</span>
                                                         </a>
