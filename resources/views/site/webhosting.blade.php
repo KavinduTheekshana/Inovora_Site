@@ -8,10 +8,11 @@
         <div class="row">
                 <div class="col-xs-12">
                         <div class="feature-info">
-                        <div class="feature-title">Hosting For Every Website</div>
+                        <div class="feature-title">Web Design</div>
                         </div>
                     <div class="info-text">
-                        Choose from a vriety of affordable, high quality shared hosting service
+                        INOVORA is a company with a great deal experience in building world-class B2B and B2C applications focusing on video delivery, RTC, AdTech, e-Learning, and data analytics.
+                        Throughout these years, our dedicated web app developers have delivered products to over 50 clients. Today, we use this vast experience to fulfil the needs of the M&E, Healthcare, FinTech, and Sports industries.
                     </div>
            
                 </div>
@@ -99,6 +100,11 @@
 
     </div>
 </div>
+<div class="container">
+
+        Your Web development Journey
+    
+</div>
 <div class="features container-fluid">
     <div class="container">
         <div class="row rtl-row">
@@ -109,9 +115,17 @@
             </div>
             <div class="col-sm-7">
                 <div class="feature-info">
-                    <div class="feature-title">Hosting For Every Website</div>
-                    <div class="feature-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas posuere euismod dui eget ultrices. Cras condimentum dui eget erat commodo, in venenatis eros blandit.</div>
-                    <div class="feature-link"><a href="#" class="hbtn hbtn-default">Get Started!</a></div>
+                    <div class="feature-title">Front-End Development</div>
+                    <div class="feature-text">We gather your requirements then we analyze them and build a trusted, visually rich user-product relationship to boost adoption and satisfaction. 
+                        Our front-end team takes it and runs it through coding processes.
+
+                            <ul> 
+                                <li>Attractive UI matched to design with optimized content and images</li>
+                                <li>Best UX all over the website</li>
+                                <li>Best customer satisfaction with latest technologies</li>
+                            </ul>
+                    </div>
+                    {{-- <div class="feature-link"><a href="#" class="hbtn hbtn-default">Get Started!</a></div> --}}
                 </div>
             </div>
         </div>
@@ -123,9 +137,15 @@
             </div>
             <div class="col-sm-7 def-aligned">
                 <div class="feature-info">
-                    <div class="feature-title">In a hurry? let’s start!</div>
-                    <div class="feature-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas posuere euismod dui eget ultrices. Cras condimentum dui eget erat commodo, in venenatis eros blandit.</div>
-                    <div class="feature-link"><a href="#" class="hbtn hbtn-default">Get Started!</a></div>
+                    <div class="feature-title">Back-End Development</div>
+                    <div class="feature-text">Let INOVORA's engineers get to design and build the core of your website — with efficiency, robustness, and great new features.
+                        <ul>
+                            <li>Flexibility to communicate with other systems and third-party services</li>
+                            <li>Advanced data structure methods to give actionable insights</li>
+                            <li>Maximum security features to protect your users, processes, and data</li>
+                        </ul>
+                    </div>
+                    <!-- <div class="feature-link"><a href="#" class="hbtn hbtn-default">Get Started!</a></div> -->
                 </div>
             </div>
         </div>
