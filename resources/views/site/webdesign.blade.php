@@ -7,7 +7,6 @@
 <div class="sub-pricing container-fluid">
         <div class="row">
                 <div class="col-xs-12">
-<<<<<<< HEAD
                         
 
 
@@ -17,7 +16,7 @@
                                         <div class="col-sm-12">
                                             <div class="page-title">
                                                 <div class="title-with-icon">
-                                                    <span class="text">Web Hosting</span>
+                                                    <span class="text">Web Design</span>
                                                 </div>
                                             </div>
                                         </div>
@@ -27,88 +26,16 @@
 
 
 
-=======
-                        <div class="feature-info">
-                        <div class="feature-title">Web Design</div>
-                        </div>
->>>>>>> a831d9e5f80b667b63fc8d6fa3529deb1a81fa7a
                     <div class="info-text">
-                        INOVORA is a company with a great deal experience in building world-class B2B and B2C applications focusing on video delivery, RTC, AdTech, e-Learning, and data analytics.
-                        Throughout these years, our dedicated web app developers have delivered products to over 50 clients. Today, we use this vast experience to fulfil the needs of the M&E, Healthcare, FinTech, and Sports industries.
+                        Choose from a vriety of affordable, high quality shared hosting service
                     </div>
            
                 </div>
             </div>
-        <div class="pricing-holder">
-            <div class="row">
-                <div class="col-sm-6 col-md-4">
-                    <div class="pricing-box inner">
-                        <div class="pricing-title">Starter plan</div>
-                        <div class="pricing-price">
-                            <div class="price">
-                                <span class="currency">$</span><span class="num">2.75</span><span class="duration">/mo</span>
-                            </div>
-                        </div>
-                        <div class="pricing-button">
-                            <a href="#">Buy now</a>
-                        </div>
-                        <div class="pricing-details">
-                            <ul>
-                                <li>10GB Storage</li>
-                                <li>1 Domain name</li>
-                                <li>512Mb Ram</li>
-                                <li>5GB Bandwidth</li>
-                                <li>10 Emails</li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-md-4">
-                    <div class="pricing-box inner">
-                        <div class="pricing-title">Business plan</div>
-                        <div class="pricing-price">
-                            <div class="price">
-                                <span class="currency">$</span><span class="num">10.95</span><span class="duration">/mo</span>
-                            </div>
-                        </div>
-                        <div class="pricing-button">
-                            <a href="#">Buy now</a>
-                        </div>
-                        <div class="pricing-details">
-                            <ul>
-                                <li>10GB Storage</li>
-                                <li>1 Domain name</li>
-                                <li>512Mb Ram</li>
-                                <li>5GB Bandwidth</li>
-                                <li>10 Emails</li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-12 col-md-4">
-                    <div class="pricing-box inner">
-                        <div class="pricing-title">VIP plan</div>
-                        <div class="pricing-price">
-                            <div class="price">
-                                <span class="currency">$</span><span class="num">38.95</span><span class="duration">/mo</span>
-                            </div>
-                        </div>
-                        <div class="pricing-button">
-                            <a href="#">Buy now</a>
-                        </div>
-                        <div class="pricing-details">
-                            <ul>
-                                <li>10GB Storage</li>
-                                <li>1 Domain name</li>
-                                <li>512Mb Ram</li>
-                                <li>5GB Bandwidth</li>
-                                <li>10 Emails</li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+
+
+
+
 </div>
 
 
@@ -122,11 +49,39 @@
 
     </div>
 </div>
-<div class="container">
 
-        Your Web development Journey
-    
-</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <div class="features container-fluid">
     <div class="container">
         <div class="row rtl-row">
@@ -137,22 +92,8 @@
             </div>
             <div class="col-sm-7" data-animscroll="fade-right">
                 <div class="feature-info">
-<<<<<<< HEAD
                     <div class="feature-title">Hosting For Every Website</div>
                     <div class="feature-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas posuere euismod dui eget ultrices. Cras condimentum dui eget erat commodo, in venenatis eros blandit.</div>
-=======
-                    <div class="feature-title">Front-End Development</div>
-                    <div class="feature-text">We gather your requirements then we analyze them and build a trusted, visually rich user-product relationship to boost adoption and satisfaction. 
-                        Our front-end team takes it and runs it through coding processes.
-
-                            <ul> 
-                                <li>Attractive UI matched to design with optimized content and images</li>
-                                <li>Best UX all over the website</li>
-                                <li>Best customer satisfaction with latest technologies</li>
-                            </ul>
-                    </div>
-                    {{-- <div class="feature-link"><a href="#" class="hbtn hbtn-default">Get Started!</a></div> --}}
->>>>>>> a831d9e5f80b667b63fc8d6fa3529deb1a81fa7a
                 </div>
             </div>
         </div>
@@ -164,20 +105,8 @@
             </div>
             <div class="col-sm-7 def-aligned" data-animscroll="fade-left">
                 <div class="feature-info">
-<<<<<<< HEAD
                     <div class="feature-title">In a hurry? let’s start!</div>
                     <div class="feature-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas posuere euismod dui eget ultrices. Cras condimentum dui eget erat commodo, in venenatis eros blandit.</div>
-=======
-                    <div class="feature-title">Back-End Development</div>
-                    <div class="feature-text">Let INOVORA's engineers get to design and build the core of your website — with efficiency, robustness, and great new features.
-                        <ul>
-                            <li>Flexibility to communicate with other systems and third-party services</li>
-                            <li>Advanced data structure methods to give actionable insights</li>
-                            <li>Maximum security features to protect your users, processes, and data</li>
-                        </ul>
-                    </div>
-                    <!-- <div class="feature-link"><a href="#" class="hbtn hbtn-default">Get Started!</a></div> -->
->>>>>>> a831d9e5f80b667b63fc8d6fa3529deb1a81fa7a
                 </div>
             </div>
         </div>

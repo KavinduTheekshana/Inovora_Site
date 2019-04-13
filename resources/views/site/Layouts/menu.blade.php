@@ -31,15 +31,15 @@
                         </div>
                         <div style="height: 1px;" role="main" aria-expanded="false" class="navbar-collapse collapse navbar-collapse-centered" id="bs">
                             <ul class="nav navbar-nav navbar-nav-centered">
-                            <li class="nav-item {{$activeindex}}"><a class="nav-link" href="/Inovora_Site/public/">Home</a></li>
-                                <li class="nav-item dropdown">
-                                    <a class="nav-link" href="#" data-toggle="dropdown">Services</a>
+                            <li class="nav-item {{$activeindex}}"><a class="nav-link" href="/">Home</a></li>
+                                <li class="nav-item dropdown ">
+                                    <a class="nav-link {{$activeindex}}" href="#" data-toggle="dropdown">Services</a>
                                     <div class="dropdown-menu custom-dropdown-menu">
                                         <div class="dropdown-items-holder">
                                             <div class="items-with-icon">
                                                 <div class="row">
                                                     <div class="col-xs-12 col-sm-6">
-                                                        <a href="webhosting" class="link-with-icon">
+                                                        <a href="webdesign" class="link-with-icon {{$activewebdesign}}">
                                                             <span class="icon"><img src="images/server1.svg" alt=""></span>
                                                             <span class="text">Web Design</span>
                                                         </a>
@@ -61,7 +61,7 @@
                                                             <span class="icon"><img src="images/server5.svg" alt=""></span>
                                                             <span class="text">Enterprise</span>
                                                         </a>
-                                                        <a href="webhosting" class="link-with-icon ">
+                                                        <a href="webhosting" class="link-with-icon {{$activewebhosting}}">
                                                             <span class="icon"><img src="images/server3.svg" alt=""></span>
                                                             <span class="text">Web Hosting</span>
                                                         </a>
@@ -194,7 +194,7 @@
                 <div class="col-md-6">
                     <div class="sub-footer-menu">
                         <ul>
-                            <li><a href="#">Terms of Service</a></li>
+                            <li><a href="terms">Terms of Service</a></li>
                             <li><a href="privacy">Privacy Policy</a></li>
                         </ul>        
                     </div>
