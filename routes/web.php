@@ -99,6 +99,20 @@ Route::get('webhosting', function()
     
     
 });
+Route::get('webapplication', function()
+{
+    $title='Web Application';
+    $cssclass='innerpage clouds-bg';
+    $activeindex='';
+    $activeContact='';
+    $activeAbout='';
+    $activeBlog='active';
+    return view('site.webapplication',['title'=>$title,'cssclass'=>$cssclass,'activeContact'=>$activeContact,'activeindex'=>$activeindex,
+    'activeAbout'=>$activeAbout,'activeBlog'=>$activeBlog]);
+
+    
+    
+});
 
 
 Route::get('admin','AdminController@login');
