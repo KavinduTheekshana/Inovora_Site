@@ -18,8 +18,11 @@ Route::get('/', function () {
     $activeContact='';
     $activeAbout='';
     $activeBlog='';
+    $activewebhosting='';
+    $activewebdesign ='';
     return view('site.index',['title'=>$title,'cssclass'=>$cssclass,'activeindex'=>$activeindex,'activeContact'=>$activeContact,
-    'activeAbout'=>$activeAbout,'activeBlog'=>$activeBlog]);
+    'activeAbout'=>$activeAbout,'activeBlog'=>$activeBlog,'activewebhosting'=>$activewebhosting,
+    'activewebdesign'=>$activewebdesign]);
 });
 
 Route::get('Contact', function()
@@ -30,8 +33,11 @@ Route::get('Contact', function()
     $activeContact='active';
     $activeAbout='';
     $activeBlog='';
+    $activewebhosting='';
+    $activewebdesign ='';
     return view('site.contact',['title'=>$title,'cssclass'=>$cssclass,'activeContact'=>$activeContact,'activeindex'=>$activeindex,
-    'activeAbout'=>$activeAbout,'activeBlog'=>$activeBlog]);
+    'activeAbout'=>$activeAbout,'activeBlog'=>$activeBlog,'activewebhosting'=>$activewebhosting,
+    'activewebdesign'=>$activewebdesign]);
 });
 
 Route::get('About', function()
@@ -42,8 +48,9 @@ Route::get('About', function()
     $activeContact='';
     $activeBlog='';
     $activeAbout='active';
+    $activewebhosting='';
     return view('site.about',['title'=>$title,'cssclass'=>$cssclass,'activeContact'=>$activeContact,'activeindex'=>$activeindex,
-    'activeAbout'=>$activeAbout,'activeBlog'=>$activeBlog]);
+    'activeAbout'=>$activeAbout,'activeBlog'=>$activeBlog,'activewebhosting'=>$activewebhosting]);
 });
 
 Route::get('Blog', function()
@@ -54,8 +61,9 @@ Route::get('Blog', function()
     $activeContact='';
     $activeAbout='';
     $activeBlog='active';
+    $activewebhosting='';
     return view('site.blog',['title'=>$title,'cssclass'=>$cssclass,'activeContact'=>$activeContact,'activeindex'=>$activeindex,
-    'activeAbout'=>$activeAbout,'activeBlog'=>$activeBlog]);
+    'activeAbout'=>$activeAbout,'activeBlog'=>$activeBlog,'activewebhosting'=>$activewebhosting]);
 });
 
 Route::get('privacy', function()
@@ -65,8 +73,23 @@ Route::get('privacy', function()
     $activeindex='';
     $activeContact='';
     $activeAbout='';
+    $activeBlog='';
+    $activewebhosting='';
     return view('site.privacy',['title'=>$title,'cssclass'=>$cssclass,'activeContact'=>$activeContact,'activeindex'=>$activeindex,
-    'activeAbout'=>$activeAbout,'activeBlog'=>$activeBlog]);
+    'activeAbout'=>$activeAbout,'activeBlog'=>$activeBlog,'activewebhosting'=>$activewebhosting]);
+});
+
+Route::get('terms', function()
+{
+    $title='Privancy';
+    $cssclass='innerpage grey-bg';
+    $activeindex='';
+    $activeContact='';
+    $activeAbout='';
+    $activeBlog='';
+    $activewebhosting='';
+    return view('site.terms',['title'=>$title,'cssclass'=>$cssclass,'activeContact'=>$activeContact,'activeindex'=>$activeindex,
+    'activeAbout'=>$activeAbout,'activeBlog'=>$activeBlog,'activewebhosting'=>$activewebhosting]);
 });
 
 Route::get('Login', function()
@@ -89,15 +112,27 @@ Route::get('webhosting', function()
 {
     $title='Web Hosting';
     $cssclass='innerpage clouds-bg';
-    $activeindex='';
+    $activeindex='active';
     $activeContact='';
     $activeAbout='';
-    $activeBlog='active';
+    $activeBlog='';
+    $activewebhosting ='active';
     return view('site.webhosting',['title'=>$title,'cssclass'=>$cssclass,'activeContact'=>$activeContact,'activeindex'=>$activeindex,
-    'activeAbout'=>$activeAbout,'activeBlog'=>$activeBlog]);
+    'activeAbout'=>$activeAbout,'activeBlog'=>$activeBlog,'activewebhosting'=>$activewebhosting]);     
+});
 
-    
-    
+Route::get('webdesign', function()
+{
+    $title='Web Hosting';
+    $cssclass='innerpage clouds-bg';
+    $activeindex='active';
+    $activeContact='';
+    $activeAbout='';
+    $activeBlog='';
+    $activewebdesign ='active';
+    $activewebhosting ='';
+    return view('site.webdesign',['title'=>$title,'cssclass'=>$cssclass,'activeContact'=>$activeContact,'activeindex'=>$activeindex,
+    'activeAbout'=>$activeAbout,'activeBlog'=>$activeBlog,'activewebhosting'=>$activewebhosting,'activewebdesign'=>$activewebdesign]);     
 });
 
 

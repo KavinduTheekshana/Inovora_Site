@@ -316,6 +316,7 @@
                 </div>
                 <div class="col-sm-1 col-md-1">
                 </div>
+                
             </div>
         </div>
     </div>
@@ -698,7 +699,7 @@
             </div>
             <div class="col-sm-4" data-animscroll="fade-left">
                 <div class="main-btn-holder">
-                    <a href="blog.html" class="hbtn hbtn-default">View more</a>
+                    <a href="Blog" class="hbtn hbtn-default">View more</a>
                 </div>
             </div>
         </div>

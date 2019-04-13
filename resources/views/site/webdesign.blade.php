@@ -16,7 +16,7 @@
                                         <div class="col-sm-12">
                                             <div class="page-title">
                                                 <div class="title-with-icon">
-                                                    <span class="text">Web Hosting</span>
+                                                    <span class="text">Web Design</span>
                                                 </div>
                                             </div>
                                         </div>
@@ -32,76 +32,10 @@
            
                 </div>
             </div>
-        <div class="pricing-holder">
-            <div class="row">
-                <div class="col-sm-6 col-md-4">
-                    <div class="pricing-box inner">
-                        <div class="pricing-title">Starter plan</div>
-                        <div class="pricing-price">
-                            <div class="price">
-                                <span class="currency">$</span><span class="num">2.75</span><span class="duration">/mo</span>
-                            </div>
-                        </div>
-                        <div class="pricing-button">
-                            <a href="#">Buy now</a>
-                        </div>
-                        <div class="pricing-details">
-                            <ul>
-                                <li>10GB Storage</li>
-                                <li>1 Domain name</li>
-                                <li>512Mb Ram</li>
-                                <li>5GB Bandwidth</li>
-                                <li>10 Emails</li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-md-4">
-                    <div class="pricing-box inner">
-                        <div class="pricing-title">Business plan</div>
-                        <div class="pricing-price">
-                            <div class="price">
-                                <span class="currency">$</span><span class="num">10.95</span><span class="duration">/mo</span>
-                            </div>
-                        </div>
-                        <div class="pricing-button">
-                            <a href="#">Buy now</a>
-                        </div>
-                        <div class="pricing-details">
-                            <ul>
-                                <li>10GB Storage</li>
-                                <li>1 Domain name</li>
-                                <li>512Mb Ram</li>
-                                <li>5GB Bandwidth</li>
-                                <li>10 Emails</li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-12 col-md-4">
-                    <div class="pricing-box inner">
-                        <div class="pricing-title">VIP plan</div>
-                        <div class="pricing-price">
-                            <div class="price">
-                                <span class="currency">$</span><span class="num">38.95</span><span class="duration">/mo</span>
-                            </div>
-                        </div>
-                        <div class="pricing-button">
-                            <a href="#">Buy now</a>
-                        </div>
-                        <div class="pricing-details">
-                            <ul>
-                                <li>10GB Storage</li>
-                                <li>1 Domain name</li>
-                                <li>512Mb Ram</li>
-                                <li>5GB Bandwidth</li>
-                                <li>10 Emails</li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+
+
+
+
 </div>
 
 
@@ -115,6 +49,39 @@
 
     </div>
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <div class="features container-fluid">
     <div class="container">
         <div class="row rtl-row">
