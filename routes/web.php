@@ -75,8 +75,10 @@ Route::get('privacy', function()
     $activeAbout='';
     $activeBlog='';
     $activewebhosting='';
+    $activewebdesign ='';
     return view('site.privacy',['title'=>$title,'cssclass'=>$cssclass,'activeContact'=>$activeContact,'activeindex'=>$activeindex,
-    'activeAbout'=>$activeAbout,'activeBlog'=>$activeBlog,'activewebhosting'=>$activewebhosting]);
+    'activeAbout'=>$activeAbout,'activeBlog'=>$activeBlog,'activewebhosting'=>$activewebhosting,
+    'activewebdesign'=>$activewebdesign]);
 });
 
 Route::get('terms', function()
