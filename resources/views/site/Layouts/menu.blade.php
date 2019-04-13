@@ -43,7 +43,7 @@
                                                             <span class="icon"><img src="images/server1.svg" alt=""></span>
                                                             <span class="text">Web Design</span>
                                                         </a>
-                                                        <a href="cloudhosting.html" class="link-with-icon">
+                                                        <a href="webapplication" class="link-with-icon">
                                                             <span class="icon"><img src="images/server2.svg" alt=""></span>
                                                             <span class="text">Web Application</span>
                                                         </a>

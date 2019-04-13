@@ -136,6 +136,20 @@ Route::get('webdesign', function()
     return view('site.webdesign',['title'=>$title,'cssclass'=>$cssclass,'activeContact'=>$activeContact,'activeindex'=>$activeindex,
     'activeAbout'=>$activeAbout,'activeBlog'=>$activeBlog,'activewebhosting'=>$activewebhosting,'activewebdesign'=>$activewebdesign]);     
 });
+Route::get('webapplication', function()
+{
+    $title='Web Application';
+    $cssclass='innerpage clouds-bg';
+    $activeindex='';
+    $activeContact='';
+    $activeAbout='';
+    $activeBlog='active';
+    return view('site.webapplication',['title'=>$title,'cssclass'=>$cssclass,'activeContact'=>$activeContact,'activeindex'=>$activeindex,
+    'activeAbout'=>$activeAbout,'activeBlog'=>$activeBlog]);
+
+    
+    
+});
 
 
 Route::get('admin','AdminController@login');
