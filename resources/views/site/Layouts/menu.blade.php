@@ -39,36 +39,36 @@
                                             <div class="items-with-icon">
                                                 <div class="row">
                                                     <div class="col-xs-12 col-sm-6">
-                                                        <a href="webdesign" class="link-with-icon {{$activewebdesign}}">
+                                                        <a href="maintainzz" class="link-with-icon {{$activewebdesign}}">
                                                             <span class="icon"><img src="images/server1.svg" alt=""></span>
                                                             <span class="text">Web Design</span>
                                                         </a>
-                                                        <a href="webapplication" class="link-with-icon">
+                                                        <a href="maintainzz" class="link-with-icon">
                                                             <span class="icon"><img src="images/server2.svg" alt=""></span>
                                                             <span class="text">Web Application</span>
                                                         </a>
-                                                        <a href="vpshosting.html" class="link-with-icon">
+                                                        <a href="maintainzz" class="link-with-icon">
                                                             <span class="icon"><img src="images/server3.svg" alt=""></span>
                                                             <span class="text">Mobile Application</span>
                                                         </a>
                                                     </div>
                                                     <div class="col-xs-12 col-sm-6">
-                                                        <a href="wordpresshosting.html" class="link-with-icon">
+                                                        <a href="maintainzz" class="link-with-icon">
                                                             <span class="icon"><img src="images/server4.svg" alt=""></span>
                                                             <span class="text">Standalone</span>
                                                         </a>
-                                                        <a href="dedicatedhosting.html" class="link-with-icon">
+                                                        <a href="maintainzz" class="link-with-icon">
                                                             <span class="icon"><img src="images/server5.svg" alt=""></span>
                                                             <span class="text">Enterprise</span>
                                                         </a>
-                                                        <a href="webhosting" class="link-with-icon {{$activewebhosting}}">
+                                                        <a href="maintainzz" class="link-with-icon {{$activewebhosting}}">
                                                             <span class="icon"><img src="images/server3.svg" alt=""></span>
                                                             <span class="text">Web Hosting</span>
                                                         </a>
                                                     </div>
                                                 </div>
                                             </div>
-                                            {{-- <div class="items">
+                                            {{-- <div class="items">    
                                                 <div class="row">
                                                     <div class="col-xs-12 col-sm-6">
                                                         <a href="#" class="link">Hustbee Features</a>
@@ -82,7 +82,7 @@
                                     </div>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="domains.html">Products</a>
+                                    <a class="nav-link" href="maintainzz">Products</a>
                                 </li>
                             <li class="nav-item {{$activeContact}}">
                                     <a class="nav-link" href="Contact">Contact Us</a>
@@ -96,9 +96,8 @@
                                 <li class="nav-item dropdown">
                                     <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Pages</a>
                                     <ul class="dropdown-menu">
-                                        <li><a class="dropdown-item" href="About">About</a></li>
-                                        <li><a class="dropdown-item" href="blog.html">Blog</a></li>
-                                        <li><a class="dropdown-item" href="privacy.html">Privacy</a></li>
+                                        <li><a class="dropdown-item" href="terms">Terms of Service</a></li>
+                                        <li><a class="dropdown-item" href="privacy">Privacy</a></li>
                                     </ul>
                                 </li>
                             </ul>
