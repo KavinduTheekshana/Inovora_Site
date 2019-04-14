@@ -39,7 +39,7 @@
                                             <div class="items-with-icon">
                                                 <div class="row">
                                                     <div class="col-xs-12 col-sm-6">
-                                                        <a href="maintainzz" class="link-with-icon {{$activewebdesign}}">
+                                                        <a href="maintainzz" class="link-with-icon">
                                                             <span class="icon"><img src="images/server1.svg" alt=""></span>
                                                             <span class="text">Web Design</span>
                                                         </a>
