@@ -158,5 +158,7 @@ Route::get('maintainzz', function()
 });
     
 Route::get('admin','AdminController@login');
+Route::post('adminlogin', 'AdminController@adminlogin');
 
 Route::post('/addUser', 'UserController@addUser');
+

@@ -127,12 +127,12 @@
                 <div class="footer-menu" data-animscroll="fade-in" data-animscroll-delay="200">
                     <h4>Inovora</h4>
                     <ul>
-                        <li><a href="about.html">About Us</a></li>
-                        <li><a href="blog.html">Services</a></li>
-                        <li><a href="blog.html">Products</a></li>
-                        <li><a href="blog.html">Portfolio</a></li>
-                        <li><a href="contact.html">Blog</a></li>
-                        <li><a href="#">Contact Us</a></li>
+                        <li><a href="/">Home</a></li>
+                        <li><a href="maintainzz">Services</a></li>
+                        <li><a href="maintainzz">Products</a></li>
+                        <li><a href="Contact">Contact Us</a></li>
+                        <li><a href="About">About Us</a></li>
+                        <li><a href="Blog">Blog</a></li>
                     </ul>
                 </div>
             </div>
@@ -140,12 +140,12 @@
                 <div class="footer-menu" data-animscroll="fade-in" data-animscroll-delay="400">
                     <h4>Services</h4>
                     <ul>
-                        <li><a href="webhosting.html">Web Design</a></li>
-                        <li><a href="wordpresshosting.html">Web Application</a></li>
-                        <li><a href="wordpresshosting.html">E-Commerce</a></li>
-                        <li><a href="cloudhosting.html">Mobile Application</a></li>
-                        <li><a href="vpshosting.html">SEO</a></li>
-                        <li><a href="dedicatedhosting.html">Web Hosting</a></li>
+                        <li><a href="maintainzz">Web Design</a></li>
+                        <li><a href="maintainzz">Web Application</a></li>
+                        <li><a href="maintainzz">E-Commerce</a></li>
+                        <li><a href="maintainzz">Mobile Application</a></li>
+                        <li><a href="maintainzz">SEO</a></li>
+                        <li><a href="maintainzz">Web Hosting</a></li>
                     </ul>
                 </div>
             </div>

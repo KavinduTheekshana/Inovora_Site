@@ -24,8 +24,8 @@
                     <div class="details-holder">
                         <div class="title">Client area</div>
                         <div class="details">
-                            <a href="#">Login</a>
-                            <a href="#">Submit a ticket</a>
+                            <a href="Login">Login</a>
+                            <a href="maintainzz">Submit a ticket</a>
                         </div>
                     </div>
                 </div>
@@ -36,8 +36,8 @@
                     <div class="details-holder">
                         <div class="title">Call or Chat</div>
                         <div class="details">
-                            <a href="#">Tel: +(973) 17 880038</a>
-                            <a href="#">Start chatting now</a>
+                            <a href="#">Tel: +94 71 067 4635</a>
+                            <a href="maintainzz">Start chatting now</a>
                         </div>
                     </div>
                 </div>
@@ -49,7 +49,7 @@
                         <div class="title">Send e-mail</div>
                         <div class="details">
                             <a href="#">support@inovora.uk</a>
-                            <a href="#">admin@inovora.uk</a>
+                            <a href="#">info@inovora.uk</a>
                         </div>
                     </div>
                 </div>

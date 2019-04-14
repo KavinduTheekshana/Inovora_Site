@@ -34,151 +34,10 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<section id="our-team" style="background: #eff1fe;">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12">
-                <div class="our-team-tittle">
-                    <h5>our team<span>Lorem Ipsum Dolor Sit Amet</span></h5>
-                </div>
-            </div>
-        </div>
-
-        <div class="row text-center">
-            <div class="col-md-12">
-                <div class="col-sm-6 col-md-3">
-                    <div class="aothor-box">
-                        <img src="images\about.jpg" alt="author" />
-                        <h5>Sanjaya Senevirathne</h5>
-                        <span>CEO</span>
-                        <div class="social">
-                            <a class="fbic" href="#"><i class="fab fa-facebook-f"></i></a>
-                            <a class="twic" href="#"><i class="fab fa-twitter"></i></a>
-                            <a class="dric" href="#"><i class="fab fa-dribbble"></i></a>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-sm-6 col-md-3">
-                    <div class="aothor-box">
-                        <img src="images\about.jpg" alt="author" />
-                        <h5>Kavindu Theekshana</h5>
-                        <span>CEO</span>
-                        <div class="social">
-                            <a class="fbic" href="#"><i class="fab fa-facebook-f"></i></a>
-                            <a class="twic" href="#"><i class="fab fa-twitter"></i></a>
-                            <a class="dric" href="#"><i class="fab fa-dribbble"></i></a>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-sm-6 col-md-3">
-                    <div class="aothor-box">
-                        <img src="images\about.jpg" alt="author" />
-                        <h5>Isuru Sajan</h5>
-                        <span>CEO</span>
-                        <div class="social">
-                            <a class="fbic" href="#"><i class="fab fa-facebook-f"></i></a>
-                            <a class="twic" href="#"><i class="fab fa-twitter"></i></a>
-                            <a class="dric" href="#"><i class="fab fa-dribbble"></i></a>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-sm-6 col-md-3">
-                    <div class="aothor-box">
-                        <img src="images\about.jpg" alt="author" />
-                        <h5>Shanuka Samarathunga</h5>
-                        <span>CEO</span>
-                        <div class="social">
-                            <a class="fbic" href="#"><i class="fab fa-facebook-f"></i></a>
-                            <a class="twic" href="#"><i class="fab fa-twitter"></i></a>
-                            <a class="dric" href="#"><i class="fab fa-dribbble"></i></a>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-        </div>
-
-
-        <div class="row text-center">
-            <div class="col-md-12">
-                <div class="col-sm-6 col-md-3">
-                    <div class="aothor-box">
-                        <img src="images\about.jpg" alt="author" />
-                        <h5>Tishan Chathura</h5>
-                        <span>CEO</span>
-                        <div class="social">
-                            <a class="fbic" href="#"><i class="fab fa-facebook-f"></i></a>
-                            <a class="twic" href="#"><i class="fab fa-twitter"></i></a>
-                            <a class="dric" href="#"><i class="fab fa-dribbble"></i></a>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-sm-6 col-md-3">
-                    <div class="aothor-box">
-                        <img src="images\about.jpg" alt="author" />
-                        <h5>Anupama Dikkumbura</h5>
-                        <span>CEO</span>
-                        <div class="social">
-                            <a class="fbic" href="#"><i class="fab fa-facebook-f"></i></a>
-                            <a class="twic" href="#"><i class="fab fa-twitter"></i></a>
-                            <a class="dric" href="#"><i class="fab fa-dribbble"></i></a>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-sm-6 col-md-3">
-                    <div class="aothor-box">
-                        <img src="images\about.jpg" alt="author" />
-                        <h5>moh nedjai</h5>
-                        <span>CEO</span>
-                        <div class="social">
-                            <a class="fbic" href="#"><i class="fab fa-facebook-f"></i></a>
-                            <a class="twic" href="#"><i class="fab fa-twitter"></i></a>
-                            <a class="dric" href="#"><i class="fab fa-dribbble"></i></a>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-sm-6 col-md-3">
-                    <div class="aothor-box">
-                        <img src="images\about.jpg" alt="author" />
-                        <h5>moh nedjai</h5>
-                        <span>CEO</span>
-                        <div class="social">
-                            <a class="fbic" href="#"><i class="fab fa-facebook-f"></i></a>
-                            <a class="twic" href="#"><i class="fab fa-twitter"></i></a>
-                            <a class="dric" href="#"><i class="fab fa-dribbble"></i></a>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-        </div>
-
-
-        
-    </div>
 </section>
 
-</section>
+
+
 
 
 
@@ -290,8 +149,92 @@
 
 
 
+    <div class="section-testimonial-carousel section-pt section-pb2">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="section-title text-center" data-animscroll="fade-up">
+                            <h2 data-animscroll="fade-up">Our Clients</h2>
+                            <p data-animscroll="fade-up" data-animscroll-delay="100">We have 100++ happy customers all over the world</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row pb-60 testimonial-carousel-3" data-animscroll="fade-up" data-animscroll-delay="300">
+ 
+                </div>
+            </div>
+        </div>
 
 
+
+
+
+
+
+    <section id="hositng-plans"  data-animscroll="fade-up" data-animscroll-delay="100"> <!-- HOSTING PLANS START -->
+        <div class="container section-pb2">
+            <div class="row techologhie-on-host">  <!-- TEC ON SERVER START -->
+                <div class="col-md-3">
+                    <a class="wow fadeIn" data-wow-delay="0.1s" href="#"  data-animscroll="fade-in" data-animscroll-delay="200"><img src="images/client/1.png" alt="logos" /></a><!-- LOGO -->
+                </div>
+
+                <div class="col-md-3">
+                    <a class="wow fadeIn" data-wow-delay="0.3s" href="#" data-animscroll="fade-in" data-animscroll-delay="400"><img src="images/client/2.png" alt="logos" /></a><!-- LOGO -->
+                </div>
+
+                <div class="col-md-3">
+                    <a class="wow fadeIn" data-wow-delay="0.5s" href="#" data-animscroll="fade-in" data-animscroll-delay="600"><img src="images/client/3.png" alt="logos" /></a><!-- LOGO -->
+                </div>
+
+                <div class="col-md-3">
+                    <a class="wow fadeIn" data-wow-delay="0.7s" href="#" data-animscroll="fade-in" data-animscroll-delay="800"><img src="images/client/4.png" alt="logos" /></a><!-- LOGO -->
+                </div>
+
+            </div> <!-- TEC ON SERVER END -->
+        </div>
+
+        <div class="container section-pb2">
+                <div class="row techologhie-on-host">  <!-- TEC ON SERVER START -->
+                       
+                    <div class="col-md-4">
+                        <a class="wow fadeIn" data-wow-delay="0.9s" href="#" data-animscroll="fade-in" data-animscroll-delay="1000"><img src="images/client/5.png" alt="logos" /></a><!-- LOGO -->
+                    </div>
+    
+                    <div class="col-md-4">
+                        <a class="wow fadeIn" data-wow-delay="1.1s" href="#" data-animscroll="fade-in" data-animscroll-delay="1200"><img src="images/client/6.png" alt="logos" /></a><!-- LOGO -->
+                    </div>
+
+                    <div class="col-md-4">
+                            <a class="wow fadeIn" data-wow-delay="1.3s" href="#" data-animscroll="fade-in" data-animscroll-delay="1200"><img src="images/client/7.png" alt="logos" /></a><!-- LOGO -->
+                    </div>
+
+
+                </div> <!-- TEC ON SERVER END -->
+            </div>
+
+
+            <div class="container section-pb2">
+                    <div class="row techologhie-on-host">  <!-- TEC ON SERVER START -->
+                        <div class="col-md-3">
+                            <a class="wow fadeIn" data-wow-delay="1.4s" href="#"  data-animscroll="fade-in" data-animscroll-delay="200"><img src="images/client/8.png" alt="logos" /></a><!-- LOGO -->
+                        </div>
+        
+                        <div class="col-md-3">
+                            <a class="wow fadeIn" data-wow-delay="1.5s" href="#" data-animscroll="fade-in" data-animscroll-delay="400"><img src="images/client/9.png" alt="logos" /></a><!-- LOGO -->
+                        </div>
+        
+                        <div class="col-md-3">
+                            <a class="wow fadeIn" data-wow-delay="1.7s" href="#" data-animscroll="fade-in" data-animscroll-delay="600"><img src="images/client/10.png" alt="logos" /></a><!-- LOGO -->
+                        </div>
+        
+                        <div class="col-md-3">
+                            <a class="wow fadeIn" data-wow-delay="1.9s" href="#" data-animscroll="fade-in" data-animscroll-delay="800"><img src="images/client/11.png" alt="logos" /></a><!-- LOGO -->
+                        </div>
+        
+                    </div> <!-- TEC ON SERVER END -->
+                </div>
+        
+    </section><!-- END HOST SERCTION -->
 
 
 
@@ -380,8 +323,6 @@
         </div>
     </div>
     <!-- End Testimonial Style -->
-
-
 
 
 

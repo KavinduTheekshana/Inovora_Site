@@ -44,12 +44,13 @@
     <!-- /.lockscreen-image -->
 
     <!-- lockscreen credentials (contains the form) -->
-    <form class="lockscreen-credentials">
+    <form class="lockscreen-credentials" role="form" action="{{action('AdminController@adminlogin')}}" method="POST" enctype="multipart/form-data">
+        @csrf
       <div class="input-group">
-        <input type="password" class="form-control" placeholder="password">
+        <input type="password" class="form-control" placeholder="password" name="password">
 
         <div class="input-group-btn">
-          <button type="button" class="btn"><i class="fa fa-arrow-right text-muted"></i></button>
+          <button type="submit" class="btn"><i class="fa fa-arrow-right text-muted"></i></button>
         </div>
       </div>
     </form>
