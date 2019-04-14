@@ -146,12 +146,14 @@ Route::get('webapplication', function()
     $activeBlog='active';
     return view('site.webapplication',['title'=>$title,'cssclass'=>$cssclass,'activeContact'=>$activeContact,'activeindex'=>$activeindex,
     'activeAbout'=>$activeAbout,'activeBlog'=>$activeBlog]);
-
-    
-    
 });
 
-
+Route::get('maintainzz', function()
+{
+    $title='Maintain Mood';
+    return view('maintains.maintain',['title'=>$title]);     
+});
+    
 Route::get('admin','AdminController@login');
 
 Route::post('/addUser', 'UserController@addUser');
