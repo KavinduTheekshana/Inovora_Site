@@ -49,8 +49,9 @@ Route::get('About', function()
     $activeBlog='';
     $activeAbout='active';
     $activewebhosting='';
+    $activewebdesign ='';
     return view('site.about',['title'=>$title,'cssclass'=>$cssclass,'activeContact'=>$activeContact,'activeindex'=>$activeindex,
-    'activeAbout'=>$activeAbout,'activeBlog'=>$activeBlog,'activewebhosting'=>$activewebhosting]);
+    'activeAbout'=>$activeAbout,'activeBlog'=>$activeBlog,'activewebhosting'=>$activewebhosting,'activewebdesign'=>$activewebdesign]);
 });
 
 Route::get('Blog', function()
@@ -62,8 +63,9 @@ Route::get('Blog', function()
     $activeAbout='';
     $activeBlog='active';
     $activewebhosting='';
+    $activewebdesign ='';
     return view('site.blog',['title'=>$title,'cssclass'=>$cssclass,'activeContact'=>$activeContact,'activeindex'=>$activeindex,
-    'activeAbout'=>$activeAbout,'activeBlog'=>$activeBlog,'activewebhosting'=>$activewebhosting]);
+    'activeAbout'=>$activeAbout,'activeBlog'=>$activeBlog,'activewebhosting'=>$activewebhosting,'activewebdesign'=>$activewebdesign]);
 });
 
 Route::get('privacy', function()
@@ -90,8 +92,9 @@ Route::get('terms', function()
     $activeAbout='';
     $activeBlog='';
     $activewebhosting='';
+    $activewebdesign ='';
     return view('site.terms',['title'=>$title,'cssclass'=>$cssclass,'activeContact'=>$activeContact,'activeindex'=>$activeindex,
-    'activeAbout'=>$activeAbout,'activeBlog'=>$activeBlog,'activewebhosting'=>$activewebhosting]);
+    'activeAbout'=>$activeAbout,'activeBlog'=>$activeBlog,'activewebhosting'=>$activewebhosting,'activewebdesign'=>$activewebdesign]);
 });
 
 Route::get('Login', function()

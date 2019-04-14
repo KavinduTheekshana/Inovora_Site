@@ -6,8 +6,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-12">
-                    <div class="page-title">Privacy policy</div>
-                    <div class="page-subtitle">Last update: Jul 2018</div>
+                    <div class="page-title">Privacy Policy</div>
+                    <div class="page-subtitle">Last update: APRIL 2019</div>
                 </div>
             </div>
         </div>
@@ -18,31 +18,70 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="content-holder">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                    <p>At INOVORA.UK, accessible from INOVORA.UK, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of 
+                        information that is collected and recorded by INOVORA.UK and how we use it.</p>
+                    <p>If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact 
+                        us through email at support@inovora.uk</p>
 
-                    <h4>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque?</h4>
+                    <h4>Log Files</h4>
 
-                    <p>Eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
+                    <p>INOVORA.UK follows a standard procedure of using log files. These files log visitors when they visit websites. 
+                        All hosting companies do this and a part of hosting services' analytics. The information collected by log files 
+                        include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, 
+                        referring/exit pages, and possibly the number of clicks. These are not linked to any information that is 
+                        personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking 
+                        users' movement on the website, and gathering demographic information.</p>
 
-                    <h4>Duis accumsan enim orci, in feugiat neque egestas gravida?</h4>
+                    <h4>Cookies and Web Beacons</h4>
 
-                    <p>Ut eu nunc sollicitudin diam blandit hendrerit ut ac augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sollicitudin, tortor id mollis cursus, enim quam tincidunt mauris, non rutrum quam ex eget sapien. Morbi rutrum ultrices nunc, sed vehicula sem mattis non.</p>
+                    <p>Like any other website, INOVORA.UK uses 'cookies'. These cookies are used to store information including visitors' 
+                        preferences, and the pages on the website that the visitor accessed or visited. The information is used to optimize 
+                        the users' experience by customizing our web page content based on visitors' browser type and/or other information.</p>
 
-                    <h4>Cras non urna erat?</h4>
+                    <h4>Privacy Policies</h4>
 
-                    <p>Integer magna risus, porttitor fermentum diam convallis, interdum sodales turpis. Phasellus sodales tristique purus. Sed ultricies vel tortor sed maximus. Nunc non arcu vel nisi volutpat interdum eu vitae mauris. Sed euismod, purus et eleifend dignissim, nisi ex aliquet elit, sed scelerisque tortor augue sed metus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi sed diam pellentesque nibh scelerisque tempor vitae id dolor. Nullam molestie ipsum non lobortis maximus. </p>
+                    <p>You may consult this list to find the Privacy Policy for each of the advertising partners of INOVORA.UK. 
+                        Our Privacy Policy was created with the help of the GDPR Privacy Policy Generator and the Privacy Policy 
+                        Generator from TermsFeed plus the Terms and Conditions Template.</p>
+                    <p>
+                            Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are 
+                            used in their respective advertisements and links that appear on INOVORA.UK, which are sent directly to users' browser. 
+                            They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their 
+                            advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.
+                    </p>
+                    <p>
+                            Note that INOVORA.UK has no access to or control over these cookies that are used by third-party advertisers.
+                    </p>
 
-                    <h4>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque?</h4>
+                    <h4>Third Pary Privacy Policies</h4>
 
-                    <p>Eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
+                    <p>INOVORA.UK's Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult 
+                        the respective Privacy Policies of these third-party ad servers for more detailed information. It may include 
+                        their practices and instructions about how to opt-out of certain options. You may find a complete list of these 
+                        Privacy Policies and their links here: Privacy Policy Links.</p>
+                    <p>
+                            You can choose to disable cookies through your individual browser options. To know more detailed information 
+                            about cookie management with specific web browsers, it can be found at the browsers' respective websites. What Are Cookies?
+                    </p>
 
-                    <h4>Duis accumsan enim orci, in feugiat neque egestas gravida?</h4>
+                    <h4>Children's Information</h4>
 
-                    <p>Ut eu nunc sollicitudin diam blandit hendrerit ut ac augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sollicitudin, tortor id mollis cursus, enim quam tincidunt mauris, non rutrum quam ex eget sapien. Morbi rutrum ultrices nunc, sed vehicula sem mattis non.</p>
+                    <p>Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, 
+                        participate in, and/or monitor and guide their online activity.</p>
+                    <p>
+                            INOVORA.UK does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your 
+                            child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts
+                            to promptly remove such information from our records.
+                    </p>
 
-                    <h4>Cras non urna erat?</h4>
+                    <h4>Online Privacy Policy Only</h4>
 
-                    <p>Integer magna risus, porttitor fermentum diam convallis, interdum sodales turpis. Phasellus sodales tristique purus. Sed ultricies vel tortor sed maximus. Nunc non arcu vel nisi volutpat interdum eu vitae mauris. Sed euismod, purus et eleifend dignissim, nisi ex aliquet elit, sed scelerisque tortor augue sed metus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi sed diam pellentesque nibh scelerisque tempor vitae id dolor. Nullam molestie ipsum non lobortis maximus. </p>
+                    <p>This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared 
+                        and/or collect in INOVORA.UK. This policy is not applicable to any information collected offline or via channels other than this website.</p>
+                    <h4>Consent</h4>
+                    <p>
+                            By using our website, you hereby consent to our Privacy Policy and agree to its Terms and Conditions.
+                    </p>
                 </div>
             </div>
         </div>
