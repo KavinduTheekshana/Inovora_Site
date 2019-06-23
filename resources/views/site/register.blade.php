@@ -7,7 +7,7 @@
                             <a href="Login" class="link-to">Login</a> or <a href="Register" class="link-to {{$registeractive}}">Register</a>
                             </div>
                         </div>
-                        <form ole="form" action="{{action('UserController@addUser')}}" method="POST" enctype="multipart/form-data">
+                        <form method="POST" action="{{ route('register') }}">
                             @csrf
                             @if (count($errors) > 0)
                                 <div class="alert alert-danger">
@@ -28,28 +28,29 @@
 
                             <div class="form-row">
                                 <div class="col-xs-12">
-                                    <label>Username</label>
-                                    <input type="text" class="form-control" required name="name">
-                                </div>
-                            </div>
-                            <div class="form-row">
-                                <div class="col-xs-12">
-                                    <label>Password</label>
-                                    <input type="password" class="form-control" required name="password">
-                                </div>
-                            </div>
-                            <div class="form-row">
-                                <div class="col-xs-12">
-                                    <label>Repeat password</label>
-                                    <input type="password" class="form-control" required name="password_confirmation">
+                                    <label>Name</label>
+                                    <<input id="name" type="text" class="form-control{{ $errors->has('name') ? ' is-invalid' : '' }}" name="name" value="{{ old('name') }}" required autofocus>
                                 </div>
                             </div>
                             <div class="form-row">
                                 <div class="col-xs-12">
                                     <label>Email</label>
-                                    <input type="email" class="form-control" required name="email">
+                                    <input id="email" type="email" class="form-control{{ $errors->has('email') ? ' is-invalid' : '' }}" name="email" value="{{ old('email') }}" required>
                                 </div>
                             </div>
+                            <div class="form-row">
+                                <div class="col-xs-12">
+                                    <label>Password</label>
+                                    <input id="password" type="password" class="form-control{{ $errors->has('password') ? ' is-invalid' : '' }}" name="password" required>
+                                </div>
+                            </div>
+                            <div class="form-row">
+                                <div class="col-xs-12">
+                                    <label>Repeat password</label>
+                                    <input id="password-confirm" type="password" class="form-control" name="password_confirmation" required>
+                                </div>
+                            </div>
+                            
                             <div class="form-row">
                                 <div class="col-xs-12">
                                     <div class="submit-holder">

@@ -162,3 +162,7 @@ Route::post('adminlogin', 'AdminController@adminlogin');
 
 Route::post('/addUser', 'UserController@addUser');
 
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
